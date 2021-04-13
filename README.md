@@ -6,7 +6,7 @@
 * Grundlage der Förderung bildet das Reglement Kulturförderung Stadt Uster: https://www.uster.ch/reglemente/163021
 
 ### Dateien
-* Die Tabelle mit allen Fördergesuche ist unter folgendem Namen abgelegt: [daten_kulturfoerderung_uster.csv](https://github.com/KulturStadtUster/kultur_foerderbeitrage/blob/main/daten_kulturfoerderung_uster.csv)
+* Die Tabelle mit allen Fördergesuche ist unter folgendem Namen abgelegt: [daten_kulturfoerderung_uster.csv](https://github.com/GesellschaftStadtUster/kultur_foerderbeitrage/blob/main/daten_kulturfoerderung_uster.csv)
 
 ## Englisch
 
