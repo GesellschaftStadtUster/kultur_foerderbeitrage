@@ -15,4 +15,4 @@
 * The governma is based on the Uster Cultural Funding Regulations: https://www.uster.ch/reglemente/163021
 
 ### Files
-* The table with all government support is stored under the following name: [daten_kulturfoerderung_uster.csv] (https://github.com/GesellschaftStadtUster/kultur_foerderbeitrage/blob/main/daten_kulturfoerderung_uster.csv)
+* The table with all government support is stored under the following name: [daten_kulturfoerderung_uster.csv](https://github.com/GesellschaftStadtUster/kultur_foerderbeitrage/blob/main/daten_kulturfoerderung_uster.csv)
