@@ -24,7 +24,7 @@ data <- as.data.frame(data)
 
 Dieser Report wird automatisiert erstellt und fasst die aktuellen Daten der Kulturförderung der Stadt Uster zusammen.
 
-```{r}
+```{r, include = false}
 anzahljahre <- as.numeric(format(as.Date(max(data$Datum.Entscheid)), format="%Y")) - as.numeric(format(as.Date(min(data$Datum.Entscheid)), format="%Y"))
 startjahr <- as.numeric(format(as.Date(min(data$Datum.Entscheid)), format="%Y"))
 
