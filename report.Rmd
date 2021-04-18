@@ -10,6 +10,9 @@ output:
 library(tufte)
 knitr::opts_chunk$set(echo = TRUE)
 
+#Bibliotheken
+library(tidyverse)
+
 #Datenimport und -aufbereitung
 data <- read.csv("https://raw.githubusercontent.com/GesellschaftStadtUster/kultur_foerderbeitrage/main/daten_kulturfoerderung_uster.csv")
 data <- as.data.frame(data)
