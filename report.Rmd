@@ -9,14 +9,33 @@ output:
 ```{r setup, include=FALSE}
 library(tufte)
 knitr::opts_chunk$set(echo = TRUE)
+
+#Datenimport und -aufbereitung
+data <- read.csv("https://raw.githubusercontent.com/GesellschaftStadtUster/kultur_foerderbeitrage/main/daten_kulturfoerderung_uster.csv")
+data <- as.data.frame(data)
+
 ```
 
 ## Übersicht
 
 Dieser Report wird automatisiert erstellt und fasst die aktuellen Daten der Kulturförderung der Stadt Uster zusammen.
 
-```{r}
+```{r, echo = false}
+anzahljahre <- as.numeric(format(as.Date(max(data$Datum.Entscheid)), format="%Y")) - as.numeric(format(as.Date(min(data$Datum.Entscheid)), format="%Y"))
+startjahr <- as.numeric(format(as.Date(min(data$Datum.Entscheid)), format="%Y"))
 
+wert <- data %>% filter(Datum.Entscheid >= as.Date(paste0(startjahr,"-01-01")) & Datum.Entscheid <= as.Date(paste0(startjahr,"-12-31")))
+summe <- sum(wert$Förderbeitrag.in.CHF)
+jahre <- startjahr
+
+for(i in 1:anzahljahre){
+  wert <- data %>% filter(Datum.Entscheid >= as.Date(paste0(startjahr+i,"-01-01")) & Datum.Entscheid <= as.Date(paste0(startjahr+i,"-12-31")))
+  wert <- sum(wert$Förderbeitrag.in.CHF)
+  summe <- c(summe,wert)
+  jahre <- c(jahre,startjahr+i)
+}
+
+barplot(summe/1000,names.arg = jahre,main = "Kulturförderbeiträge der Stadt Uster" ,ylab = "Förderbeitrag pro Jahr [in 1000 CHF]")
 
 ```
 
