@@ -1,0 +1,23 @@
+---
+title: "Kulturförderung der Stadt Uster"
+author: "Herausgeberin: Stadt Uster, Fachstelle Kultur"
+output:
+  tufte::tufte_html:
+    tufte_variant: "envisioned"
+---
+
+```{r setup, include=FALSE}
+library(tufte)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Übersicht
+
+Dieser Report wird automatisiert erstellt und fasst die aktuellen Daten der Kulturförderung der Stadt Uster zusammen.
+
+```{r}
+
+
+```
+
+
