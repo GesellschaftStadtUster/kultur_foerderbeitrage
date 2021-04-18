@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #Bibliotheken
 library(tidyverse)
+library(RCurl)
 
 #Datenimport und -aufbereitung
 data <- read.csv("https://raw.githubusercontent.com/GesellschaftStadtUster/kultur_foerderbeitrage/main/daten_kulturfoerderung_uster.csv")
