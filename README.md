@@ -7,8 +7,8 @@
 
 ### Dateien
 * Die Tabelle mit allen Fördergesuche ist unter folgendem Namen abgelegt: [daten_kulturfoerderung_uster.csv](https://github.com/GesellschaftStadtUster/kultur_foerderbeitrage/blob/main/daten_kulturfoerderung_uster.csv)
-* Eine Übersicht und erste Auswertung der Kulturförderung findest du hier: https://gesellschaftstadtuster.github.io/kultur_foerderbeitrage/ubersicht_kulturfoerderung.html
-* Die Übersicht kann mit folgendem Script (R Markdown) erstellt werden: [ubersicht_kulturfoerderung.Rmd]
+* Eine Übersicht und einige Auswertungen zur Kulturförderung findest du hier: https://gesellschaftstadtuster.github.io/kultur_foerderbeitrage/report.html
+* Die Übersicht kann mit folgendem Script (R Markdown) erstellt werden: [report.Rmd]
 
 ## Englisch
 
