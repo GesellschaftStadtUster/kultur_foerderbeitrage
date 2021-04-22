@@ -8,10 +8,16 @@ output:
 
 ```{r setup, include=FALSE}
 library(tufte)
+library(knitr)
 knitr::opts_chunk$set(echo = TRUE)
 
 #Bibliotheken
 library(tidyverse)
+library(RCurl)
+
+library(tm)
+library(wordcloud)
+library(RColorBrewer)
 library(RCurl)
 
 #Datenimport und -aufbereitung
@@ -21,8 +27,12 @@ data <- as.data.frame(data)
 ```
 
 ## Übersicht
+Dieser Report wird automatisiert anhand der Daten zur Kulturförderung der Stadt Uster erstellt. Er fasst die wichtigsten Erkenntnisse grafisch zusammen und steht auch als [PDF](https://github.com/GesellschaftStadtUster/kultur_foerderbeitrage/report.pdf) zur Verfügung. Die Auswertung erfolgt mittels R, das entsprechende Script ist unter [report.Rmd](https://github.com/GesellschaftStadtUster/kultur_foerderbeitrage/report.Rmd) verfügbar.   erstellt und fasst die aktuellen Daten der Kulturförderung der Stadt Uster zusammen.
 
-Dieser Report wird automatisiert erstellt und fasst die aktuellen Daten der Kulturförderung der Stadt Uster zusammen.
+## Kulturförderbeiträge über die letzten Jahre
+```{marginfigure, echo = TRUE}
+Die Stadt Uster fördert das kulturelle Leben in der Stadt sowohl über mehrjährige Leistungskontrakte wie auch über einzelne Betriebsbeiträge.
+```
 
 ```{r, echo=FALSE}
 anzahljahre <- as.numeric(format(as.Date(max(data$Datum.Entscheid)), format="%Y")) - as.numeric(format(as.Date(min(data$Datum.Entscheid)), format="%Y"))
@@ -43,4 +53,48 @@ barplot(summe/1000,names.arg = jahre,main = "Kulturförderbeiträge der Stadt Us
 
 ```
 
+## Die Entwicklung der einzelnen Förderbereiche
+```{marginfigure, echo = TRUE}
+Mit der Zuordnung der Beiträge nach Förderbereiche wird klar ersichtlich, welche Leistungen mit der Kulturförderung der Stadt Uster möglich wird.
 
+```
+
+## Begriffe in den Projekttiteln
+```{marginfigure, echo = TRUE}
+Die Häufigkeit von Begriffen in den Projekttiteln gibt einen Eindruck der Inhalte der geförderten Projekte und Anbieter.
+```
+
+```{r, echo=FALSE, warning=FALSE}
+
+filterbegriffe <- c("uster","ein","der","ein","von","für","eine","leistungskontrakt","mit","und")
+doc <- Corpus(VectorSource(data$Projekt))
+toSpace <- content_transformer(function (x , pattern ) gsub(pattern, " ", x))
+doc <- tm_map(doc, toSpace, "/")
+doc <- tm_map(doc, toSpace, "\\|")
+
+doc <- tm_map(doc, content_transformer(tolower))
+doc <- tm_map(doc, removeNumbers)
+doc <- tm_map(doc, removeWords, stopwords("german"))
+doc <- tm_map(doc, removeWords, filterbegriffe) 
+#doc <- tm_map(doc, removePunctuation)
+doc <- tm_map(doc, toSpace, ":")
+doc <- tm_map(doc, toSpace, "«")
+doc <- tm_map(doc, toSpace, "–")
+doc <- tm_map(doc, toSpace, ",")
+doc <- tm_map(doc, stripWhitespace)
+#doc <- tm_map(doc, stemDocument)
+tdm <- TermDocumentMatrix(doc)
+m <- as.matrix(tdm)
+v <- sort(rowSums(m),decreasing=TRUE)
+df <- data.frame(word = names(v),freq=v)
+
+wortliste <- cbind(df$word[1:10],df$freq[1:10])
+colnames(wortliste) <- c("Begriff im Projekttitel","Häufigkeit")
+
+kable(wortliste)
+```
+
+## Grundlagen
+Diese Auswertung zur Kulturföderung der Stadt Uster basiert auf dem von der Fachstelle Kultur der Stadt Uster zur Verfügung gestellten offenen Daten. Diese sind unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) lizensiert und werden über [opendata.swiss](#) zur Verfügung gestellt.
+
+Diese Auswertung wurde von Andreas Wyss für das Geschäftsfeld Gesellschaft erstellt. Bei Fragen betreffend  offenen Daten des Geschäftsfelds oder dieser spezifischen kann man sich an dieses über [data@griu.ch](mailto:data@griu.ch) wenden.
