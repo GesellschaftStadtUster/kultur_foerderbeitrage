@@ -35,15 +35,15 @@ Die Stadt Uster fördert das kulturelle Leben in der Stadt sowohl über mehrjäh
 ```
 
 ```{r, echo=FALSE}
-anzahljahre <- as.numeric(format(as.Date(max(data$Datum.Entscheid)), format="%Y")) - as.numeric(format(as.Date(min(data$Datum.Entscheid)), format="%Y"))
-startjahr <- as.numeric(format(as.Date(min(data$Datum.Entscheid)), format="%Y"))
+anzahljahre <- as.numeric(format(as.Date(max(data$DatumEntscheid)), format="%Y")) - as.numeric(format(as.Date(min(data$DatumEntscheid)), format="%Y"))
+startjahr <- as.numeric(format(as.Date(min(data$DatumEntscheid)), format="%Y"))
 
-wert <- data %>% filter(Datum.Entscheid >= as.Date(paste0(startjahr,"-01-01")) & Datum.Entscheid <= as.Date(paste0(startjahr,"-12-31")))
+wert <- data %>% filter(DatumEntscheid >= as.Date(paste0(startjahr,"-01-01")) & DatumEntscheid <= as.Date(paste0(startjahr,"-12-31")))
 summe <- sum(wert$Förderbeitrag.in.CHF)
 jahre <- startjahr
 
 for(i in 1:anzahljahre){
-  wert <- data %>% filter(Datum.Entscheid >= as.Date(paste0(startjahr+i,"-01-01")) & Datum.Entscheid <= as.Date(paste0(startjahr+i,"-12-31")))
+  wert <- data %>% filter(DatumEntscheid >= as.Date(paste0(startjahr+i,"-01-01")) & DatumEntscheid <= as.Date(paste0(startjahr+i,"-12-31")))
   wert <- sum(wert$Förderbeitrag.in.CHF)
   summe <- c(summe,wert)
   jahre <- c(jahre,startjahr+i)
