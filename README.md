@@ -12,7 +12,7 @@
 
 ### Datenstruktur
 
-**daten_kulturfoerderung_uster.csv**
+**daten_kulturfoerderung_uster.csv:**
 
 | **Field Name**        | **Description**                                | **Format**     |
 |---------------------|--------------------------------------------|------------|
