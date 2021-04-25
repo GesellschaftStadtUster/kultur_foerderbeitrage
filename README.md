@@ -10,6 +10,19 @@
 * Eine Übersicht und einige Auswertungen zur Kulturförderung findest du hier: https://gesellschaftstadtuster.github.io/kultur_foerderbeitrage/report.html
 * Die Übersicht kann mit folgendem Script (R Markdown) erstellt werden: [report.Rmd]
 
+### Datenstruktur
+
+**daten_kulturfoerderung_uster.csv**
+
+| **Field Name**        | **Description**                                | **Format**     |
+|---------------------|--------------------------------------------|------------|
+| **DatumEntscheid**              | Datum der Beschlussfassung über das Gesuch, bei Leistungskontrakten der Auszahlung | YYYY-MM-DD |
+| **Gesuchssteller**              | Bezeichnung des Gesuchstellers gemäss Fördergesuch | String |
+| **Projekt** | Bezeichnung des geförderten Projekt | String |
+| **Foerderbereich**     | Bezeichnung des Förderbereichs | String |
+| **Foerderart**       | Bezeichnung der Förderart (Projektbeitrag oder Leistungskontrakt) | String |
+| **FoerderbeitragCHF**       | Bewilligter Betrag  | Number |
+
 ## Englisch
 
 ### Data description
