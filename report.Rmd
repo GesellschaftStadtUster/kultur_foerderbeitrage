@@ -55,45 +55,12 @@ barplot(summe/1000,names.arg = jahre,main = "Kulturförderbeiträge der Stadt Us
 ```
 
 ## Die Entwicklung der einzelnen Förderbereiche
+Auswertung noch ausstehend
 ```{marginfigure, echo = TRUE}
 Mit der Zuordnung der Beiträge nach Förderbereiche wird klar ersichtlich, welche Leistungen mit der Kulturförderung der Stadt Uster möglich wird.
 
 ```
 
-## Begriffe in den Projekttiteln
-```{marginfigure, echo = TRUE}
-Die Häufigkeit von Begriffen in den Projekttiteln gibt einen Eindruck der Inhalte der geförderten Projekte und Anbieter.
-```
-
-```{r, echo=FALSE, warning=FALSE}
-
-filterbegriffe <- c("uster","ein","der","ein","von","für","eine","leistungskontrakt","mit","und")
-doc <- Corpus(VectorSource(data$Projekt))
-toSpace <- content_transformer(function (x , pattern ) gsub(pattern, " ", x))
-doc <- tm_map(doc, toSpace, "/")
-doc <- tm_map(doc, toSpace, "\\|")
-
-doc <- tm_map(doc, content_transformer(tolower))
-doc <- tm_map(doc, removeNumbers)
-doc <- tm_map(doc, removeWords, stopwords("german"))
-doc <- tm_map(doc, removeWords, filterbegriffe) 
-#doc <- tm_map(doc, removePunctuation)
-doc <- tm_map(doc, toSpace, ":")
-doc <- tm_map(doc, toSpace, "«")
-doc <- tm_map(doc, toSpace, "–")
-doc <- tm_map(doc, toSpace, ",")
-doc <- tm_map(doc, stripWhitespace)
-#doc <- tm_map(doc, stemDocument)
-tdm <- TermDocumentMatrix(doc)
-m <- as.matrix(tdm)
-v <- sort(rowSums(m),decreasing=TRUE)
-df <- data.frame(word = names(v),freq=v)
-
-wortliste <- cbind(df$word[1:10],df$freq[1:10])
-colnames(wortliste) <- c("Begriff im Projekttitel","Häufigkeit")
-
-kable(wortliste)
-```
 
 ## Grundlagen
 Diese Auswertung zur Kulturföderung der Stadt Uster basiert auf dem von der Fachstelle Kultur der Stadt Uster zur Verfügung gestellten offenen Daten. Diese sind unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) lizensiert und werden über [opendata.swiss](#) zur Verfügung gestellt.
