@@ -27,11 +27,11 @@ data <- as.data.frame(data)
 ```
 
 ## Übersicht
-Dieser Report wird automatisiert anhand der Daten zur Kulturförderung der Stadt Uster erstellt. Er fasst die wichtigsten Erkenntnisse grafisch zusammen und steht auch als [PDF](https://github.com/GesellschaftStadtUster/kultur_foerderbeitrage/report.pdf) zur Verfügung. Die Auswertung erfolgt mittels R, das entsprechende Script ist unter [report.Rmd](https://github.com/GesellschaftStadtUster/kultur_foerderbeitrage/report.Rmd) verfügbar.   erstellt und fasst die aktuellen Daten der Kulturförderung der Stadt Uster zusammen.
+Dieser Report wird automatisiert anhand der Daten zur Kulturförderung der Stadt Uster erstellt. Er fasst die wichtigsten Erkenntnisse grafisch zusammen  Die Auswertung erfolgt mittels R, das entsprechende Script ist unter [report.Rmd](https://github.com/GesellschaftStadtUster/kultur_foerderbeitrage/report.Rmd) verfügbar.
 
 ## Kulturförderbeiträge über die letzten Jahre
 ```{marginfigure, echo = TRUE}
-Die Stadt Uster fördert das kulturelle Leben in der Stadt sowohl über mehrjährige Leistungskontrakte wie auch über einzelne Betriebsbeiträge.
+Die Stadt Uster fördert das kulturelle Leben in der Stadt sowohl über mehrjährige Leistungskontrakte wie auch über einzelne Förderbeiträge.
 ```
 
 ```{r, echo=FALSE}
