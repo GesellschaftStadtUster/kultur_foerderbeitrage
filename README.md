@@ -17,7 +17,7 @@
 | **Field Name**        | **Description**                                | **Format**     |
 |---------------------|--------------------------------------------|------------|
 | **DatumEntscheid**              | Datum der Beschlussfassung über das Gesuch, bei Leistungskontrakten der Auszahlung | YYYY-MM-DD |
-| **Gesuchssteller**              | Bezeichnung des Gesuchstellers gemäss Fördergesuch | String |
+| **Gesuchsteller**              | Bezeichnung des Gesuchstellers gemäss Fördergesuch | String |
 | **Projekt** | Bezeichnung des geförderten Projekt | String |
 | **Foerderbereich**     | Bezeichnung des Förderbereichs | String |
 | **Foerderart**       | Bezeichnung der Förderart (Projektbeitrag oder Leistungskontrakt) | String |
