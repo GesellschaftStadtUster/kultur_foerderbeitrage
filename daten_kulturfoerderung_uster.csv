@@ -1,399 +1,398 @@
-"DatumEntscheid,""Gesuchssteller"",""Projekt"",""Foerderbereich"",""Foerderart"",""FoerderbeitragCHF"""
-"2018-02-22,""Quartierverein Oberuster"",""Bachgassfest"",""Gemeinwesen"",""Projektbeitrag"",5000"
-"2018-02-22,""Verein OpenAir für Uster"",""H2U-Sessions Winter-Frühling 18"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2018-02-22,""Filacro"",""Kulturkaländer 2018"",""Konzert & Theater"",""Projektbeitrag"",6000"
-"2018-02-22,""Verein OpenAir für Uster"",""H2U OpenAir 2018"",""Konzert & Theater"",""Projektbeitrag"",25000"
-"2018-02-22,""must"",""Konzerte für Frühaufstehende"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2018-02-22,""Theater Synthese"",""«The Show Must Go On!“"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2018-02-22,""Qtopia"",""Kurzfilmnacht 2018"",""Film & Kino"",""Projektbeitrag"",2500"
-"2018-02-22,""Eos Guitar Quartet"",""Konzert 30-jähriges Jubiläum"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2018-02-22,""Kammerchor Uster"",""Konzert vom  24.11.2018"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2018-02-22,""ProIntegras"",""Theaterprojekt «Sturm“"",""Konzert & Theater"",""Projektbeitrag"",2500"
-"2018-02-22,""Künstlergruppe Uster"",""Ausstellung 2018"",""Bildende Kunst"",""Projektbeitrag"",3000"
-"2018-05-22,""Orgelfestival"",""Orgelfestival 2018"",""Konzert & Theater"",""Projektbeitrag"",6000"
-"2018-05-22,""Heinz Girschweiler"",""Biografie Dr. hc. Jakob Zollinger"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2018-05-22,""Quartierverein Winikon"",""Quartierfest 2018"",""Gemeinwesen"",""Projektbeitrag"",500"
-"2018-05-22,""Swissjazzorama"",""Veranstaltungen 2018"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2018-05-22,""Klassik im Rüden"",""Klassik im Schloss"",""Konzert & Theater"",""Projektbeitrag"",2500"
-"2018-05-22,""Freie Bühne Uster"",""Theater Die Heiratsvermittlerin"",""Konzert & Theater"",""Projektbeitrag"",6000"
-"2018-05-22,""Konzeptbox"",""TALK ABOUT Uster"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2018-05-22,""Zirkus Chnopf"",""Freilichtspektakel GUGUS"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2018-05-22,""Jazzclub"",""Konzert-Saison 2018/19"",""Konzert & Theater"",""Projektbeitrag"",15000"
-"2018-05-22,""Compagnie Stradini"",""Lampedame - Freilufttheater"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2018-06-05,""Zeughausfest"",""Konzert, Ausstellung"",""Zeughaus"",""Projektbeitrag"",8897"
-"2018-08-22,""Michael Wyss"",""Buchprojekt (Lyrikband)"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2018-08-22,""Kammerorchester Uster"",""Klassisches Sommerkonzert"",""Konzert & Theater"",""Projektbeitrag"",1750"
-"2018-08-22,""Trio Pegasus"",""Karussell (Konzerttitel)"",""Konzert & Theater"",""Projektbeitrag"",1800"
-"2018-08-22,""ACLI"",""Theater: Letto a due piezze"",""Konzert & Theater"",""Projektbeitrag"",1200"
-"2018-08-22,""Ensemble Fiorenza"",""Wiederaufnahme «Zikaden»"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2018-08-22,""must"",""Konzertwoche «must im Advent»"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2018-08-22,""insieme Zürcher Oberl."",""«der Josa mit der Zauberfiedel»"",""Konzert & Theater"",""Projektbeitrag"",2500"
-"2018-08-22,""Topoï.log"",""un behaust – Brecht, Weill"",""Konzert & Theater"",""Projektbeitrag"",2500"
-"2018-08-22,""Stradis Orchester"",""Silvester- und Neujahrskonzerte"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2018-08-22,""Theater Kanton Zürich"",""Freilichttheater: Sommernachtstraum"",""Konzert & Theater"",""Projektbeitrag"",5500"
-"2018-08-22,""Theater Kanton Zürich"",""Freilichttheater: Kleider machen Leute"",""Konzert & Theater"",""Projektbeitrag"",5500"
-"2018-12-06,""Fotobüro Bern"",""fotoCH"",""Bildende Kunst"",""Projektbeitrag"",500"
-"2018-12-06,""Trigger Concert Big Band"",""Concert Big Band feat. Bert Joris – Portrait"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2018-12-06,""Nossiker Kulturhüsli"",""Konzert Duo Goran Kovacevic,"",""Konzert & Theater"",""Projektbeitrag"",1800"
-"2018-12-06,""Mundarte"",""Theaterstück «Mini Wohnig“"",""Konzert & Theater"",""Projektbeitrag"",1200"
-"2018-12-06,""Kammerorchester Uster"",""Klassisches Winterkonzert"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2018-12-06,""Giampaolo Russo"",""Ausstellung: Salon der Gegenwart"",""Bildende Kunst"",""Projektbeitrag"",4000"
-"2018-12-06,""Florian Reichle"",""EP Produktion «The Beautiful Now“"",""Bildende Kunst"",""Projektbeitrag"",1500"
-"2018-12-06,""Verein Open Air für Uster"",""H2U Sessions Winter-Frühling 2018/2019"",""Konzert & Theater"",""Projektbeitrag"",2400"
-"2018-12-06,""Verein Open Air für Uster"",""H2U Openair 2019"",""Konzert & Theater"",""Projektbeitrag"",25000"
-"2018-12-06,""Ausstellungsbüro Palma3"",""«Mobil! Unterwegs mit Visionären“"",""Bildende Kunst"",""Projektbeitrag"",4000"
-"2018-12-06,""Jazzchor Arcas Syncopics"",""Konzert «Short Stories od Jazz Part II … l“"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2018-12-06,""Ausstellung Bickel"",""Kunstausstellung Zeughaus"",""Bildende Kunst"",""Projektbeitrag"",400"
-"2018-05-22,""Kunstplakate"",""Beitrag Kunstplakate"",""Bildende Kunst"",""Kunstplakate"",7000"
-"2018-06-25,""Atelier Genua"",""Stipendium Auslandatelier"",""Bildende Kunst"",""Stipendium"",4500"
-"2018-07-13,""Atelier Kairo"",""Stipendium Auslandatelier"",""Bildende Kunst"",""Stipendium"",9000"
-"2018-01-29,""Verein Usteragenda"",""Leistungskontrakt"",""Fachstelle Kultur"",""Leistungskontrakt"",25000"
-"2018-03-16,""Kulturgemeinschaft Uster"",""Leistungskontrakt, Jahresprogramm Central"",""Konzert & Theater"",""Leistungskontrakt"",110000"
-"2018-04-18,""Platz für andere Musik (PAM)"",""Leistungskontrakt, Jahresprogramm"",""Konzert & Theater"",""Leistungskontrakt"",8000"
-"2018-05-07,""Kultur für Kinder (Kufki)"",""Leistungskontrakt, Jahresprogramm"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2018-06-25,""Akku, Künstleratelier"",""Leistungskontrakt, Ausstellung, Atelier"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2018-07-05,""Musikschule (MSUG)"",""Leistungskontrakt, Konzertprogramm"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2018-07-08,""Villa Grundholzer"",""Leistungskontrakt, Jahresprogramm"",""Konzert & Theater"",""Leistungskontrakt"",20000"
-"2018-09-15,""Kulturverein “Zum Hut“"",""Leistungskontrakt, Jahresprogramm"",""Konzert & Theater"",""Leistungskontrakt"",9000"
-"2018-11-30,""Swissjazzorama"",""Leistungskontrakt, Jazzarchiv und Museum"",""Konzert & Theater"",""Leistungskontrakt"",25000"
-"2018-12-01,""Graphos"",""Leistungskontrakt, Druckereimuseum"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2019-02-28,""Mundart"",""Theaterproduktion: Mini Wohnig"",""Konzert & Theater"",""Projektbeitrag"",5000"
-"2019-03-04,""AVIS"",""Konzert «Un Palco all'Opera»"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2019-03-04,""Qtopia"",""Kurzfilmnacht 2019"",""Film & Kino"",""Projektbeitrag"",2000"
-"2019-03-04,""Klassik im Rüden"",""Klassik im Schloss 2019"",""Konzert & Theater"",""Projektbeitrag"",2500"
-"2019-03-04,""Jazzclub Uster"",""Konzert-Saison 2019/20"",""Konzert & Theater"",""Projektbeitrag"",15000"
-"2019-03-04,""Orgelfestival Uster"",""Orgelfestival 2019"",""Konzert & Theater"",""Projektbeitrag"",6000"
-"2019-03-04,""Kulturprogramm «graum»"",""Vorstellung «LOG, ein clowneskes Theater»"",""Konzert & Theater"",""Projektbeitrag"",500"
-"2019-03-04,""Verein Probebühne Turicaphon"",""Theater «Clip & Clara»"",""Konzert & Theater"",""Projektbeitrag"",500"
-"2019-03-04,""Nadine Philipp"",""Tanzproduktion"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2019-03-04,""Konkret"",""Konkret Festival 2019"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2019-03-04,""Kosmos Film GmbH"",""Dok-Film «DER TRAUM VON TOKIO»"",""Film & Kino"",""Projektbeitrag"",5000"
-"2019-03-04,""Künstlergruppe Uster"",""Ausstellung «Künstlergruppe Uster 2019»"",""Bildende Kunst"",""Projektbeitrag"",2500"
-"2019-03-04,""Missing Owl"",""Theater: Die Stadt der motorisierten Roll."",""Konzert & Theater"",""Projektbeitrag"",500"
-"2019-03-04,""Nossiker Kulturhüsli"",""Aufführung «GRAND HOTEL»"",""Konzert & Theater"",""Projektbeitrag"",500"
-"2019-03-04,""Nossiker Kulturhüsli"",""Matinée «TIKVITSA»"",""Konzert & Theater"",""Projektbeitrag"",500"
-"2019-03-04,""Remo Hunziker"",""Musikalbum «Schattenspiel»"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2019-03-04,""Ensemble Fiorenza"",""Produktion «Allergie»"",""Konzert & Theater"",""Projektbeitrag"",25000"
-"2019-03-04,""Zapzarap"",""Premiere und zwei Vorstellungen"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2019-03-04,""Gemeindeverein Nänikon"",""Live im Klairs"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2019-03-31,""Pro Kultur"",""Jahresbeitrag"",""Fachstelle Kultur"",""Projektbeitrag"",400"
-"2019-04-30,""Kunstplakate"",""Kunstplakate 2019-2020"",""Bildende Kunst"",""Projektbeitrag"",7000"
-"2019-05-27,""must"",""Konzerte für Frühaufstehende"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2019-05-27,""Pudel und Pinscher"",""Buch «Los Alamos ist winzig» Dieter Zwicky"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2019-05-27,""Freie Bühne Uster"",""Theater «Zimmer 12a»"",""Konzert & Theater"",""Projektbeitrag"",6000"
-"2019-05-27,""Ensemble Theater Synthese"",""Aufführung Theater «Herr Müller muss weg»"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2019-05-27,""Kleinjogg Kulturverein"",""2. Auflage «Kleinjogg Gedenkschrift»"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2019-05-27,""DAKAR-Produktion"",""Produktion: «Mit der Zeit muss man gehen»"",""Konzert & Theater"",""Projektbeitrag"",10000"
-"2019-05-27,""Filacro"",""Programmbeitrag: «Kulturkaländer 2019/20»"",""Konzert & Theater"",""Projektbeitrag"",10000"
-"2019-05-27,""Stadt-Jodler-Uster"",""Jodlerfest: Umzug in Winterthur"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2019-09-02,""Zirkus Chnopf"",""Zirkus: «OPTIMUM»"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2019-09-02,""Nandigosha Group"",""CD Produktion"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2019-09-02,""ACLI"",""Italienisches Theaterstück"",""Konzert & Theater"",""Projektbeitrag"",500"
-"2019-09-02,""Unerhört Festivalbüro"",""Unerhört Festival -  Eröffnungsabend"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2019-09-02,""must"",""must im Advent"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2019-09-02,""Bühnenkollektiv"",""Produktion: «Eisbombe …»"",""Konzert & Theater"",""Projektbeitrag"",6000"
-"2019-09-02,""Theater topoi:log"",""Theater: «Un_behaust – Brecht/Weill»"",""Konzert & Theater"",""Projektbeitrag"",500"
-"2019-09-02,""Verein Probebühne Turicaphon"",""Theater: «Nagelritz - Expedition Mond»"",""Konzert & Theater"",""Projektbeitrag"",500"
-"2019-09-02,""Verein Kultur am Gleis"",""Programmbeitrag: «Kultur am Gleis»"",""Konzert & Theater"",""Projektbeitrag"",2500"
-"2019-09-02,""Verlag Intakt Records"",""CD Produktion: «Niggli, Keita, Brönnimann»"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2019-09-02,""A.C.S.I."",""Theater: «Terra matta -Theater aus Sizilien»"",""Konzert & Theater"",""Projektbeitrag"",500"
-"2019-12-02,""Bharateeya Kalalayam"",""Bharatheeyakalolsavam ‘20 (Miete Stadthof)"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2019-12-02,""Verein Klassik im Rüden"",""Programmbeitrag: «Klassik im Schloss 2020»"",""Konzert & Theater"",""Projektbeitrag"",2500"
-"2019-12-02,""Orgelfestival Uster"",""Programmbeitrag: «Orgelfestival Uster»"",""Konzert & Theater"",""Projektbeitrag"",6000"
-"2019-12-02,""Verein Hinterhalt"",""6. Hinterhalt Festival 2020"",""Konzert & Theater"",""Projektbeitrag"",25000"
-"2019-12-02,""Verein Openair für Uster"",""Musik: H2U Sessions Winter-Frühling 19/20"",""Konzert & Theater"",""Projektbeitrag"",1800"
-"2019-12-02,""Verein Openair für Uster"",""Musik: H2U Openair Uster 2020"",""Konzert & Theater"",""Projektbeitrag"",22000"
-"2019-12-02,""Kammerorchester Uster"",""Klassisches Winterkonzert"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2019-01-31,""Top Klassik Zürioberland"",""Leistungskontrakt, Programm Uster"",""Konzert & Theater"",""Leistungskontrakt"",20000"
-"2019-02-28,""Kulturgemeinschaft Uster"",""Leistungskontrakt, Jahresprogramm Central"",""Konzert & Theater"",""Leistungskontrakt"",110000"
-"2019-03-31,""Verein Usteragenda"",""Leistungskontrakt"",""Fachstelle Kultur"",""Leistungskontrakt"",25000"
-"2019-03-31,""Platz für andere Musik (PAM)"",""Leistungskontrakt, Jahresprogramm"",""Konzert & Theater"",""Leistungskontrakt"",8000"
-"2019-05-31,""Kultur für Kinder (Kufki"",""Leistungskontrakt, Jahresprogramm"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2019-05-31,""Akku, Künstleratelier"",""Leistungskontrakt, Ausstellung, Atelier"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2019-07-17,""Musikschule (MSUG)"",""Leistungskontrakt, Jahresprogramm"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2019-08-26,""Kulturverein «Zum Hut»"",""Leistungskontrakt, Jahresprogramm"",""Konzert & Theater"",""Leistungskontrakt"",9000"
-"2019-09-19,""Stadtmusik"",""Leistungskontrakt, Jahresprogramm"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2019-10-08,""Villa Grundholzer"",""Leistungskontrakt, Jahresprogramm"",""Konzert & Theater"",""Leistungskontrakt"",20000"
-"2019-11-20,""Graphos"",""Leistungskontrakt, Druckereimuseum"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2019-12-01,""Swissjazzorama"",""Leistungskontrakt, Jazzarchiv und Museum"",""Konzert & Theater"",""Leistungskontrakt"",25000"
-"2020-02-17,""Chris Conz"",""Boogie-Woogie an 2 Pianos mit Frank Muschalle & Chris Conz"",""Konzert & Theater"",""Projektbeitrag"",500"
-"2020-02-17,""Vitoria Pinto"",""Boxenstopp - Gruppenausstellung Bildende Kunst"",""Bildende Kunst"",""Projektbeitrag"",5000"
-"2020-02-17,""Filacro"",""Move & Groove Festival"",""Konzert & Theater"",""Projektbeitrag"",500"
-"2020-02-17,""Jazzlub Uster"",""Konzertsaison 2020/21"",""Konzert & Theater"",""Projektbeitrag"",18000"
-"2020-02-17,""Verein Konkret"",""Konkret Festival 2020"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2020-02-17,""Must"",""Konzerte für Frühaufstehende 2020"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2020-02-17,""Nossiker Kulturhüsli"",""(V21) Konzert mit Urtönig "",""Konzert & Theater"",""Projektbeitrag"",500"
-"2020-02-17,""Nossiker Kulturhüsli"",""Buchpremiere – Lesung Katharina Gaiser"",""Konzert & Theater"",""Projektbeitrag"",500"
-"2020-02-17,""Künstlergruppe Uster"",""Ausstellung 2020 (V21)"",""Bildende Kunst"",""Projektbeitrag"",2500"
-"2020-02-17,""Qtopia"",""Kurzfilmnacht 2020"",""Film & Kino"",""Projektbeitrag"",2000"
-"2020-02-17,""Verein Kultur am Gleis"",""Kultur am Gleis 2020"",""Konzert & Theater"",""Projektbeitrag"",2500"
-"2020-02-17,""Konzert MSUG"",""(V21) Konzertreihe 20/21 "",""Konzert & Theater"",""Projektbeitrag"",5000"
-"2020-02-17,""DOXS Tanzkompanie"",""MITreden – Tanzproduktion"",""Konzert & Theater"",""Projektbeitrag"",6000"
-"2020-02-17,""Klairs Nänikon"",""Live im Klairs 2020"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2020-05-25,""Klassik im Rüden"",""Klassik im Schloss 2021"",""Konzert & Theater"",""Projektbeitrag"",2500"
-"2020-05-25,""Glauser Quintett"",""Literarisches Konzert «In fremden Gärten»"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2020-05-25,""Freie Bühne Uster"",""(V21) Theater «Arsen und Spitzenhäubchen» von J. Kesselring "",""Konzert & Theater"",""Projektbeitrag"",6000"
-"2020-05-25,""Die Statisten"",""(V21) Musik-Theaterstück «medea3 Musik + Tod»"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2020-05-25,""amiamusica"",""«Musik-Picknick am See» mit miles4amiamusica"",""Konzert & Theater"",""Projektbeitrag"",800"
-"2020-05-25,""Alice Mor"",""EP-Produktion «Lights»"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2020-08-24,""Ensemble Fiorenza"",""(V21) Ludwig & Gloria oder Die Orchidee – Live-Hörspiel"",""Konzert & Theater"",""Projektbeitrag"",8000"
-"2020-08-24,""Sängerbund"",""(V21) Konzerte in ref. Kirche Uster und St. Peter Zürich"",""Konzert & Theater"",""Projektbeitrag"",7500"
-"2020-08-24,""Chris Conz"",""10th International Boogie Nights Uster"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2020-08-24,""Sixoc Studios"",""PAPER PLANES - Kurzfilm im Bollywood Stil"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2020-08-24,""Miro Lorenzo Maurer"",""(V21) Der König von Uster - Die Uster-Revue (AT)"",""Konzert & Theater"",""Projektbeitrag"",8000"
-"2020-08-24,""KulturFutur"",""Die Bank - Theaterproduktion und Aufführungen"",""Konzert & Theater"",""Projektbeitrag"",20000"
-"2020-08-24,""Nadine Philipp"",""Flamenco im Kulturhaus Central"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2020-09-30,""Ev.-ref. Kirche Uster"",""Schüleradventssingen 2020"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2020-11-23,""SDJ, Suisse Diagonales Jazz"",""Suisse Diagonales Jazz 2021"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2020-11-23,""Zukunft UNESCO-Welterbe"",""Die Pfahlbauer*in - vier Ausstellungen im Pfahlbausommers"",""Bildende Kunst"",""Projektbeitrag"",4000"
-"2020-11-23,""Schlosschor Greifensee"",""Konzert, gemeinsam mit Kammerorchester Uster"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2020-11-23,""Kosmos"",""Kämpfen für Olympia, Filmprojekt, Fortsetzung SRF DOK"",""Film & Kino"",""Projektbeitrag"",4000"
-"2020-01-31,""Kulturgemeinschaft, KGU"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",110000"
-"2020-02-23,""Platz für andere Musik, PAM"",""Leistungskontrakt (letzte Zahlung)"",""Konzert & Theater"",""Leistungskontrakt"",8000"
-"2020-03-03,""Musikschule, MSUG"",""Leistungskontrakt (letzte Zahlung)"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2020-03-09,""Uster Agenda"",""Leistungskontrakt"",""Fachstelle Kultur"",""Leistungskontrakt"",25000"
-"2020-06-18,""Kultur für Kinder, Kufki"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2020-06-18,""Top Klassik ZO"",""Leistungskontrakt"",""Bildende Kunst"",""Leistungskontrakt"",20000"
-"2020-06-22,""Eisenbahn-Sammlung"",""Leistungskontrakt"",""Bildende Kunst"",""Leistungskontrakt"",4000"
-"2020-07-09,""SwissJazzOrama SJO"",""Leistungskontrakt / Museumsförderung (GR) "",""Bildende Kunst"",""Leistungskontrakt"",40000"
-"2020-07-10,""akku Künstleratelier"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2020-08-10,""Theater Synthese"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",5400"
-"2020-08-31,""Villa Grunholzer"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",20000"
-"2020-09-01,""Kulturverein zum Hut"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",9000"
-"2020-11-18,""Stadtmusik Uster"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2020-12-31,""Graphos Druckereimuseum"",""Museumsförderung (GR) / Übernahme Miete Zeughaus"",""Museumsförderung"",""Leistungskontrakt"",20000"
-"2020-12-31,""Unteroffiziermuseum"",""Museumsförderung (GR) / Übernahme Miete Zeughaus"",""Museumsförderung"",""Leistungskontrakt"",20000"
-"2021-02-01,""Compagnie Roikkuva"",""Empire of Fools, 12.-13. September 2020"",""Konzert & Theater"",""Projektbeitrag"",2500"
-"2021-03-08,""Pablo Infernal"",""Pablo Infernal - drittes Album"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2021-03-08,""Musikschule Uster, MSUG"",""Konzertreihe 21/22"",""Konzert & Theater"",""Projektbeitrag"",5000"
-"2021-03-08,""Chris Conz"",""Livestream-Konzerte 2021 aus dem Zeughausareal"",""Konzert & Theater"",""Projektbeitrag"",2400"
-"2021-03-08,""Orgelfestival"",""Orgelfestival 2021, Jubiläum, 30 Jahre Orgelfestival (statt 2020)"",""Konzert & Theater"",""Projektbeitrag"",6000"
-"2021-03-08,""Verein KOSMOSE"",""KOSMOSE, Elf Positionen zeitgenössischer Kunst im K2"",""Konzert & Theater"",""Projektbeitrag"",5000"
-"2021-03-08,""must"",""Konzerte für Frühaufstehende"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2021-03-08,""Hinterhalt Verein"",""Zwischenhalt 2021"",""Konzert & Theater"",""Projektbeitrag"",14000"
-"2021-03-08,""Qtopia"",""Qtopia, Kurzfilmnacht 2021"",""Film & Kino"",""Projektbeitrag"",2000"
-"2021-03-08,""KufKi"",""KUfKi-Festival «Hoffnung»"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2021-03-25,""Verein Konkret"",""Konkret Festival 2021"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2021-03-25,""Interstellar Music GmbH"",""CACHITA - EP «Briefe»"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2021-06-02,""Fridolin Berger"",""Serenade am Aabach - mit Picknick"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2021-06-02,""Kunstfabrik Wetzikon"",""Ausstellung (Kunstfabrik Wetzikon und K2 Uster)"",""Bildende Kunst"",""Projektbeitrag"",2000"
-"2021-06-02,""Verein Openair für Uster, H2U"",""H2U Shelter Sessions: Jaël (im Akustik-Trio)"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2021-06-02,""Verein Openair für Uster, H2U"",""H2U Openair Uster 2021- «S Züghuus Openair - zmitzt in Uschter»"",""Konzert & Theater"",""Projektbeitrag"",25000"
-"2021-06-02,""Patric Birrer"",""Creating Jazz Sounds"",""Konzert & Theater"",""Projektbeitrag"",1200"
-"2021-06-02,""Verein für wirtschaftshistorische Studien"",""Forschungs- und Buchprojekt Heinrich Kunz, Herbst 2021"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2021-06-02,""Verein netzWERK"",""Tanzprojekt «Durchs Netz»"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2021-06-02,""Jazzclub Uster"",""Konzert-Saison 2021/22"",""Konzert & Theater"",""Projektbeitrag"",18000"
-"2021-08-30,""Topoi:Log"",""Theater un_behaust 2.0 - Eine Orientierung mit Berta"",""Konzert & Theater"",""Projektbeitrag"",500"
-"2021-08-30,""Compagnie Roikkuva"",""Roikkuva's Kulturpalast, Wanderzirkus, «Empire of fools»"",""Konzert & Theater"",""Projektbeitrag"",2500"
-"2021-08-30,""Klassik im Rüden"",""Klassik im Schloss, Klassik im Schloss, Saison 2022"",""Konzert & Theater"",""Projektbeitrag"",2500"
-"2021-08-30,""Zirkus Chnopf"",""Zirkus Chnopf «LEVEL 2748»"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2021-08-30,""Verband zum Schutz des Greifensees"",""NGZH-Neujahrsblatt 2022 «Der Greifensee»"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2021-08-30,""akku Künstleratelier Uster"",""Sanierung Kunstkiste"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2021-08-30,""Jan Hofer"",""A New New Material in Direct Democracy"",""Bildende Kunst"",""Projektbeitrag"",2000"
-"2021-11-22,""Nossiker Kulturhüsli"",""Konzert Trio Crossover, Nossiker Kulturhüsli"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2021-11-22,""Tobias Krebs"",""TRIQUETA Ensemble Tonaufnahme «Amainiris»"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2021-11-22,""Kammerorchester Uster"",""Klassisches Konzert"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2021-11-22,""Pudel und Pinscher, "
-"edition pudelundpinscher"",""Buch «Vroeling» von Dieter Zwicky"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2021-11-22,""Nina Widmer"",""TeehausMusik"",""Konzert & Theater"",""Projektbeitrag"",1800"
-"2021-11-22,""KulturFutur"",""DIE BANK - Theatertournee 2022"",""Konzert & Theater"",""Projektbeitrag"",15000"
-"2021-11-22,""DOXS Tanzkompanie"",""Zitrone - Tanzproduktion, April bis Dezember 2022"",""Konzert & Theater"",""Projektbeitrag"",15000"
-"2022-02-28,""Verein Openair für Uster, H2U"",""H2U Sessions Winter/Frühling 2022"",""Konzert & Theater"",""Projektbeitrag"",2500"
-"2022-02-28,""Verein Kultur am Gleis"",""Verein Kultur am Gleis - Veranstaltungen Q4 2021"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2022-02-28,""David Sautter"",""Tonaufnahmen Flöten / Gitarre, März 2022"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2022-02-28,""Künstlergruppe Uster"",""Künstlergruppe Uster, Ausstellung 2022"",""Bildende Kunst"",""Projektbeitrag"",3000"
-"2022-02-28,""Dieter Zwicky"",""CD-Produktion Hörbuch «Vroeling» von Dieter Zwicky"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2022-02-28,""Kammerorchester Männedorf-Küsnacht"",""Frühjahrskonzerte mit jugendlichen Solistinnen"",""Konzert & Theater"",""Projektbeitrag"",500"
-"2022-02-28,""JOKO connected (Karin Jost, Regula J. Kopp)"",""Memories You Can Bring im Zeughausareal Uster, Mai 2022"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2022-02-28,""Konkret"",""Konkret Festival 2022"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2022-02-28,""Verein Regionalgeschichte Zürcher Oberland"",""Regionalgeschichte Zürcher Oberland, Veröffentlichung 2025"",""Konzert & Theater"",""Projektbeitrag"",5000"
-"2022-02-28,""Kufki - Kultur für Kinder"",""KUfKi-Kinder musizieren für Kinder (KmK), 06.02.2022 - 07.05.2023"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2022-02-28,""Radio15.ch GmbH"",""Radio15.ch Künstlerabend, 8.4.2022"",""Konzert & Theater"",""Projektbeitrag"",500"
-"2022-02-28,""Sängerbund"",""Klassisches Konzert, 29.10./5.11.22"",""Konzert & Theater"",""Projektbeitrag"",7500"
-"2022-02-28,""Genossenschaft Klairs"",""Live im Klairs 2022"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2022-02-28,""Qtopia/Internationale Kurzfilmtage Winterthur"",""Kurzfilmnacht Uster 2022"",""Film & Kino"",""Projektbeitrag"",2000"
-"2022-02-28,""Sandra Ceriani"",""Teehaus Konzert - eine musikalische Reise mit Genuss, 20.3.22"",""Konzert & Theater"",""Projektbeitrag"",500"
-"2022-02-28,""Probebühne Turicaphon"",""Sibylle Aeberli & Stefanie Grob - Musikalisch-theatraler Abend, 15.5.22"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2022-05-23,""Cynthia Stucki"",""Kunstlokal Festival: Sammlungen bewegen, 27.08.-08.10.22, Zürcher Oberland"",""Bildende Kunst"",""Projektbeitrag"",5000"
-"2022-05-23,""Sharmila Rao & Stuti Aga"",""Leela - Elemente des Lebens, 18.6.22, Stadthofsaal Uster"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2022-05-23,""Kammerorchester Uster"",""PERGOLESI - STABAT MATER, 1.7.22, Kath. Kirche Uster"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2022-05-23,""Verein Orgelfestival Uster"",""Orgelfestival Uster, 25.8.-18.9.22, Ref. Kirche Uster"",""Konzert & Theater"",""Projektbeitrag"",6000"
-"2022-05-23,""Freie Bühne Uster"",""Theater Lysistrate, 20.10.-5.11.22, Central Uster"",""Konzert & Theater"",""Projektbeitrag"",6000"
-"2022-05-23,""Zirkus Chnopf"",""Zirkus Chnopf-Vorstellungen, 24.-28.8.22, Stadtpark Uster"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2022-05-23,""Verein Kultur am Gleis"",""Kultur am Gleis 2022, Café Gleis 1, Nänikon"",""Konzert & Theater"",""Projektbeitrag"",2500"
-"2022-05-23,""Kunstverein Uster"",""Kunstverein Uster, Programm Mai bis November 2022"",""Bildende Kunst"",""Projektbeitrag"",2000"
-"2022-05-23,""Caracol Verlag"",""Sabine Abt fischfarbenprisma, 28.9.22, Warth/Uster"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2020-02-28,""Kunstpreis"",""Kunstpreis an Perkussionist und Komponist Pierre Favre"",""Kunstpreis"",""Kunstpreis"",10000"
-"2021-02-28,""Kunstpreis"",""Kunstpreis an Schauspielerin und Regisseurin Eveline Ratering"",""Kunstpreis"",""Kunstpreis"",10000"
-"2021-01-01,""Kulturverein zum Hut"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",9000"
-"2021-01-01,""Kulturgemeinschaft Uster KGU"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",110000"
-"2021-01-01,""Eisenbahn-Sammlung Uster"",""Leistungskontrakt"",""Bildende Kunst"",""Leistungskontrakt"",4000"
-"2021-01-01,""akku Künstleratelier"",""Leistungskontrakt"",""Bildende Kunst"",""Leistungskontrakt"",15000"
-"2021-01-01,""Villa Grunholzer"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",20000"
-"2021-01-01,""SwissJazzOrama SJO"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",40000"
-"2021-01-01,""Stadtmusik Uster"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2021-01-01,""Top Klassik Zürcher Oberland"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",20000"
-"2021-01-01,""KUfKI"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2021-01-01,""Vereinbarung Ustertagskomitee"",""Leistungskontrakt"",""Fachstelle Kultur"",""Leistungskontrakt"",30000"
-"2021-01-01,""Uster Agenda"",""Leistungskontrakt"",""Fachstelle Kultur"",""Leistungskontrakt"",25000"
-"2022-01-01,""Kulturverein zum Hut"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",9000"
-"2022-01-01,""Kulturgemeinschaft Uster KGU"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",110000"
-"2022-01-01,""Eisenbahn-Sammlung Uster"",""Leistungskontrakt"",""Bildende Kunst"",""Leistungskontrakt"",4000"
-"2022-01-01,""akku Künstleratelier"",""Leistungskontrakt"",""Bildende Kunst"",""Leistungskontrakt"",15000"
-"2022-01-01,""Villa Grunholzer"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2022-01-01,""SwissJazzOrama SJO"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",25000"
-"2022-01-01,""Stadtmusik Uster"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2022-01-01,""Vrein Openair für Uster (HU)"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",20000"
-"2022-01-01,""Verein Zeughausareal"",""Leistungskontrakt"",""Fachstelle Kultur"",""Leistungskontrakt"",230000"
-"2022-01-01,""Top Klassik Zürcher Oberland"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",20000"
-"2022-01-01,""KUfKI"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",16000"
-"2022-01-01,""Vereinbarung Ustertagskomitee"",""Leistungskontrakt"",""Fachstelle Kultur"",""Leistungskontrakt"",30000"
-"2022-01-01,""Uster Agenda"",""Leistungskontrakt"",""Fachstelle Kultur"",""Leistungskontrakt"",25000"
-"2018-02-28,""Kunstpreis"",""Kunstpreis an Sängerin und Autorin Letizia Fiorenza"",""Kunstpreis"",""Kunstpreis"",10000"
-"2019-02-28,""Kunstpreis"",""Kunstpreis an Verein «akku Künstleratelier»"",""Kunstpreis"",""Kunstpreis"",10000"
-"2022-09-05,""Ensemble Fiorenza"",""Emozioni oder Geschwisterliebe, 09./11.3.23, Central Uster"",""Konzert & Theater"",""Projektbeitrag"",25000"
-"2022-09-05,""Klassik im Rüden"",""Klassik im Schloss, Saison 2023, Schloss Uster"",""Konzert & Theater"",""Projektbeitrag"",2500"
-"2022-09-05,""Glauser Quintett"",""«Der Untergang des Delphin», Premiere Feb 2023, anschliessende Schweizer Tournee"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2022-09-05,""Freezy-Kleinert-Melvin"",""Freezy - Balkon für Zwei, Oktober 2022, Region Uster und ganze Schweiz"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2022-09-05,""must"",""Gruselnacht für Erwachsene, 29.10.22, Stadtbibliothek Uster"",""Konzert & Theater"",""Projektbeitrag"",800"
-"2022-09-05,""Big Band Uster"",""Amazing Grace – Revisiting Aretha Franklin, 4.12.22, Musikcontainer Uster"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2022-09-05,""Bechtler Stiftung"",""Double Positive. Sylvie Fleury, 8.10.22-19.3.23, Bechtler Stiftung Uster"",""Bildende Kunst"",""Projektbeitrag"",8000"
-"2022-09-05,""Cantapè"",""Acis und Galatea, 10./11.6.23, Kulturhaus Central Uster"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2022-09-05,""Buchprojektgruppe Zürcher Oberland"",""Vernissage Buchprojekt «Feld,Flarz,Fabrik - Zürcher Oberland im Wandel», Oktober 22, Villa Grunholzer Uster"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2022-11-21,""Jazzclub Uster"",""Jazzclub Uster, September 2022 - April 2023, Musikcontainer Uster"",""Konzert & Theater"",""Projektbeitrag"",14000"
-"2022-11-21,""Kollektiv Präsidentenbalkon"",""Planet Tabu (AT), 25.08.2023-03.09.2023, 01.06.2023-16.06.2023, 25.11.2023-03.12.2023, Zeughausareal Uster, Rote Fabrik Zürich, Helsinkiklub Zürich"",""Konzert & Theater"",""Projektbeitrag"",20000"
-"2022-11-21,""Kompanie Bollwerk"",""SCHNAPPSCHUSS, 14.-21.9.23, Zeughausareal Uster"",""Konzert & Theater"",""Projektbeitrag"",15000"
-"2022-11-21,""Kunstverein Uster"",""Ausstellung ARSENAL23, 22.6.-9.7.23, Zeughausareal Uster"",""Bildende Kunst"",""Projektbeitrag"",8000"
-"2022-11-21,""Frank von Niederhäusern"",""Uster Talk, 16.3.23 & 11.5.23, Kulturhaus Central, etc."",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2022-11-21,""Kunstverein Uster"",""Kunstverein Uster, Agenda 2023, Diverse"",""Bildende Kunst"",""Projektbeitrag"",2000"
-"2022-11-21,""Hinterhalt Verein"",""Hinterhalt Festival 2023, 7./8./9. Juli 2023, Uster"",""Konzert & Theater"",""Projektbeitrag"",35000"
-"2023-01-01,""Kulturverein zum Hut"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",9000"
-"2023-01-01,""Kulturgemeinschaft Uster KGU"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",110000"
-"2023-01-01,""Eisenbahn-Sammlung Uster"",""Leistungskontrakt"",""Bildende Kunst"",""Leistungskontrakt"",4000"
-"2023-01-01,""akku Künstleratelier"",""Leistungskontrakt"",""Bildende Kunst"",""Leistungskontrakt"",15000"
-"2023-01-01,""Villa Grunholzer"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2023-01-01,""SwissJazzOrama SJO"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",25000"
-"2023-01-01,""Stadtmusik Uster"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2023-01-01,""Vrein Openair für Uster (HU)"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",17250"
-"2023-01-01,""Verein Zeughausareal"",""Leistungskontrakt"",""Fachstelle Kultur"",""Leistungskontrakt"",230000"
-"2023-01-01,""Top Klassik Zürcher Oberland"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",20000"
-"2023-01-01,""KUfKI"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",16000"
-"2023-01-01,""Vereinbarung Ustertagskomitee"",""Leistungskontrakt"",""Fachstelle Kultur"",""Leistungskontrakt"",30000"
-"2023-01-01,""Uster Agenda"",""Leistungskontrakt"",""Fachstelle Kultur"",""Leistungskontrakt"",25000"
-"2023-02-27,""Künstlergruppe Uster"",""Ausstellung Künstlergruppe Uster, 23.9. - 8.10.23, Zeughaus Uster K2"",""Bildende Kunst"",""Projektbeitrag"",3000"
-"2023-02-27,""Qtopia und Internationale Kurzfilmtage Winterthur"",""Kurzfilmnacht Uster 2023, 22.4.23, Kino qtopia"",""Film & Kino"",""Projektbeitrag"",2000"
-"2023-02-27,""Kunstfabrik Wetzikon"",""KUNST VOLLER TRAUM II, 1. - 4.6.2023, Zeughaus Uster"",""Bildende Kunst"",""Projektbeitrag"",2500"
-"2023-02-27,""Thierry Perriard und Werner Casty"",""Ausstellung «Unzufällige Gemeinsamkeiten», 1. bis 11.6.23, Zeughausareal Halle K2, Uster"",""Bildende Kunst"",""Projektbeitrag"",2000"
-"2023-02-27,""Nachdenken über das koloniale Erbe"",""Nachdenken über das koloniale Erbe, 31.3.-27.4.23, Stadtpark Uster"",""Bildende Kunst"",""Projektbeitrag"",2000"
-"2023-02-27,""Bechtler Stiftung"",""Ein ruheloses Universum. Peter Fischli, David Weiss, 15.4.-17.9.23, Bechtler Stiftung Uster"",""Bildende Kunst"",""Projektbeitrag"",4000"
-"2023-02-27,""must"",""Konzerte für Frühaufstehende, 26. - 30.6.23, Stadtbibliothek Uster"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2023-02-27,""Roger Girod"",""Gartenkultur-Performance, 3.6.23, Zellweger-Park Uster"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2023-02-27,""Orgelfestival"",""Orgelfestival Uster, 24.8.23/27.8.23/3.9.23/10.9.23/17.9.23, Reformierte Kirche Uster"",""Konzert & Theater"",""Projektbeitrag"",6000"
-"2023-02-27,""Sängerbund Uster"",""Klassisches Konzert, 28.10.23 und 4.11.23, Wollerau/SZ und Uster"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2023-02-27,""Gospel-Singers-Uster"",""Gospel-Chor mit Tanzperformance, 23.9.23, Musik Container Uster"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2023-02-27,""Werkheim Uster"",""Stadtpark Sessions, 11.5./22.06./13.07./24.08./07.09.2023, Stadtpark Uster"",""Konzert & Theater"",""Projektbeitrag"",3500"
-"2023-02-27,""Konkret"",""Konkret > Festival 23, 29.6. - 1.7.2023, Schwerzistrasse 60, 8606 Nänikon"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2023-02-27,""Verein Zirkus Chnopf"",""Zirkus Chnopf, 30.8. - 3.9.23, Stadtpark Uster"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2023-02-27,""Genossenschaft Klairs"",""Live im Klairs 2023, 26.3., 16.4., 18.6., 9.7., 10.9., 22.10., 19.11., Klairs, Bühlstrasse 16, 8606 Nänikon"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2023-06-05,""landauf-bachab"",""Gegenüber Kunst im Dialog am Aabach, 25.8.23 (Vernissage), 10.9.23 (Finissage), Kunst entlang des Aabachs (Trümplerareal bis Greifensee)"",""Bildende Kunst"",""Projektbeitrag"",7000"
-"2023-06-05,""Stadt Jodler Uster"",""75 Jahr – immer no Fröid am Jodle, 25.11.2023, Stadthofsaal Uster"",""Konzert & Theater"",""Projektbeitrag"",500"
-"2023-06-05,""Verlag Scheidegger & Spiess"",""Kaspar Thalmann: Der Stern von Laufenburg, Herbst 2024, diverse"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2023-06-05,""The Flying Circus"",""Freilicht Zirkus Spektakel «Marionetta» der Kompanie Lucy & Lucky Loop, 2.7.23, Zeughausareal Uster"",""Konzert & Theater"",""Projektbeitrag"",1200"
-"2023-06-05,""da bux Verlag"",""Buchprojekt Melanie Gerber, 14.9.2023 (Veröffentlichung)/Herbst 23 Vernissage, Werdenberg, SG/Uster"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2023-06-05,""Freie Bühne Uster"",""Theater «Alptraumvilla», 19.10.2023 bis 04.11.2023, Kulturhaus Central Uster"",""Konzert & Theater"",""Projektbeitrag"",6000"
-"2023-06-05,""Verein Kultur am Gleis"",""Kultur am Gleis 2023, ca. 35 Kulturanlässe während 2023, Café Gleis1, Bahnhof Nänikon-Greifensee"",""Konzert & Theater"",""Projektbeitrag"",2500"
-"2023-06-05,""Jann Flütsch"",""Klassik im Schloss, Saison 2024, 17.3., 7.4., 22.6., 14./28.9., 12.10.23, Schloss Uster"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2023-06-05,""Corsin Gaudenz"",""Bad Actor, Dezember 2023 und März 2024, Fabriktheater Zürich, Central Uster, Schlachthaus Bern"",""Konzert & Theater"",""Projektbeitrag"",8000"
-"2023-06-05,""Bechtler Stiftung"",""Ausstellung Bechtler Stiftung, 30.09.2023 - 01.04.2024, Bechtler Stiftung, Uster"",""Bildende Kunst"",""Projektbeitrag"",5000"
-"2023-06-05,""Th. Gut Verlag"",""Buchprojekt «Greifensee-Geschichten», Erscheinung im Oktober 2023, anschliessend Lesungen rund um den Greifensee"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2023-06-05,""Saray Furgler"",""Ablexu - WIN (Musik Video), Ausstrahlung: 25. August 2023"",""Film & Kino"",""Projektbeitrag"",1000"
-"2023-08-28,""Duo Luschaina c/o Tobias Krebs"",""Audiovisuelle Aufnahme Duo Luschaina, 25.7.2023, Saal des ZKO-Haus "",""Film & Kino"",""Projektbeitrag"",1000"
-"2023-08-28,""DOXS Tanzkompanie"",""Couchkult - Inklusion in Altersheimen, ab 1.11.23, Altersheime in Uster und Umgebung"",""Konzert & Theater"",""Projektbeitrag"",5000"
-"2023-08-28,""Jazzclub Uster"",""Jazzclub Uster, September 2023 - April 2024, Musikcontainer Uster & Central"",""Konzert & Theater"",""Projektbeitrag"",14000"
-"2023-08-28,""must"",""Konzertwoche im Advent, 4. - 8.12.2023, Foyer des Stadthauses Uster"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2023-08-28,""Theater im Wohnzimmer (Ingo Ospelt und Eveline Ratering)"",""S ist als ob Engelein singen, 12.11./19.11./3.12./9.12.23, Theater im Wohnzimmer, Brandstrasse 4, Uster"",""Konzert & Theater"",""Projektbeitrag"",2500"
-"2023-11-20,""Miam"",""miam-konzerte, 14.01.,09.03.,16.06.,12.10.2024, Uster"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2023-11-20,""Das TRIO - Paolo D'Angelo, Martina Oertli"",""«Meine Liebe, Deine Liebe» Konzert, 17.02.2024, MusikContainer Uster"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2023-11-20,""SDJ, Suisse Diagonales Jazz"",""Suisse Diagonales Jazz 2024, 19.01.2024, Jazzclub Uster"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2023-11-20,""TONundTON"",""AQUA Installation von TONundTON, 1. - 16.6.2024, Waschhaus der Villa Grunholzer Uster"",""Bildende Kunst"",""Projektbeitrag"",1000"
-"2023-11-20,""Balzer Event GmbH"",""Kindermusical «Pumuckl», 10.02.24, Stadthofsaal Uster"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2023-11-20,""Internationales Theater Synthese"",""Den Drachen lieb...töten!, 23.,24.,25.5.,1.,12.,19.,20.6., Central Uster, Genève, Zürich"",""Konzert & Theater"",""Projektbeitrag"",8000"
-"2023-11-20,""Kantonsschule Uster und Verein «Jugend beflügelt»"",""Kharkiv meets Zurich, 5.2.-10.2.2024, Kantonsschule Uster"",""Konzert & Theater"",""Projektbeitrag"",5000"
-"2023-11-20,""Alfred Zimmerlin"",""Studioaufnahme und Albumproduktion, 1.12.2023 - Herbst 2024, Studio: Villingen DE, Vertieb und Release-Tour: Schweiz"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2023-11-20,""ensemble fiorenza"",""Was Sie schon immer über Scham wissen wollten (aber bisher noch nicht erfahren haben), 15.,16. November, 24.,25. November 2024, Central Uster, ThiK Baden"",""Konzert & Theater"",""Projektbeitrag"",20000"
-"2023-11-20,""Bechtler Stiftung"",""Ausstellung Bechtler Stiftung, 19.04. -6.10.2024, Museum Bechtler Stiftung, Uster"",""Bildende Kunst"",""Projektbeitrag"",7000"
-"2023-11-20,""AS Verlag"",""Buchprojekt «Eiskalt schwimmen» von Jeannette Stangier-Bors, Publikation im Juni 2024, Vernissage im Juni 2024 in Uster"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2023-11-20,""Karen Geyer, Künstlerin und Kunstvermittlerin"",""Führungen «Kunst im öffentlichen Raum», Jeder letzte Donnerstag im Monat von März bis September, Stadt Uster öffentlicher Raum"",""Bildende Kunst"",""Projektbeitrag"",5500"
-"2023-11-20,""Lukas Roth - kooprteatr"",""An Essay About Nothing (Produktion), Mai,Juni 2024 (2 Vorstellungen), Kulturhaus Central"",""Konzert & Theater"",""Projektbeitrag"",5000"
-"2024-02-26,""Qtopia und Internationale Kurzfilmtage Winterthur"",""Internationale Kurzfilmtage Winterthur, 13.4.24, qtopia kino+bar"",""Film & Kino"",""Projektbeitrag"",2500"
-"2024-02-26,""Genossenschaft Klairs Nänikon"",""Live im Klairs 2024, 24.3., 21.4., 26.5. 23.6., 22.9., 20.10., 24.11., 8. oder 15.12., Klairs Nänikon"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2024-02-26,""AG Kultur im gRaum"",""Melinda Stocker & Benjamin Scheck, 22.3.2024, gRaum, Florastrasse 49, 8610 Uster"",""Konzert & Theater"",""Projektbeitrag"",500"
-"2024-02-26,""Edition Königstuhl Dr. Manfred Hiefner"",""Buchprojekt «Veränderlich oder des Lebens lauter Frühling», 07.2023 - 05.2024, Uster/St. Gallenkappel"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2024-02-26,""Climanosco, Bettina Rohr"",""Ausstellung Dear2050: Entangled Forests, 30.3. - 19.4.24, Zeughausareal Uster"",""Bildende Kunst"",""Projektbeitrag"",3000"
-"2024-02-26,""Orgelfestival"",""34. Orgelfestival 2024, 25.8./1.9./4.9./8.9./15.9.2024, Ref. Kirche Uster"",""Konzert & Theater"",""Projektbeitrag"",8000"
-"2024-02-26,""Kunstverein Uster"",""Kunstverein Uster, Agenda 2024, Januar bis Dezember 2024, Zürich, Uster, Wetzikon"",""Bildende Kunst"",""Projektbeitrag"",4000"
-"2024-02-26,""Zirkus Chnopf"",""Zirkus Chnopf, 14. - 18.08.2024, Stadtpark Uster"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2024-02-26,""Dario Marti"",""Bachelor Animation Abschlussfilm, 20.02. - 25.06.2024, Filmfestivals, Internet, Installationen, TV"",""Film & Kino"",""Projektbeitrag"",500"
-"2024-02-26,""must"",""Konzerte für Frühaufstehende, 24. - 28.7.24, Stadtbibliothek Uster"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2024-02-26,""Sängerbund"",""Klassisches Konzert, 16.11.24, Ref. Kirche Uster"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2024-02-26,""Verein Konkret"",""Konkret Festival 24, 27.6.-29.6.24, Schwerzistrasse 60, 8606 Nänikon"",""Konzert & Theater"",""Projektbeitrag"",5000"
-"2024-02-26,""Paula Duttweiler"",""Lesung mit Studierenden des Schweizer Literaturinstitut, 9.4.24, Buchhandlung Doppelpunkt"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2024-02-26,""Bertilla Spinas"",""Fegefeuer, 17.-30.6.24, ehemaliges Figurentheater Luzern/Kino Qtopia Uster"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2024-01-01,""Kulturverein zum Hut"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",9000"
-"2024-01-01,""Kulturgemeinschaft Uster KGU"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",110000"
-"2024-01-01,""Eisenbahn-Sammlung Uster"",""Leistungskontrakt"",""Bildende Kunst"",""Leistungskontrakt"",4000"
-"2024-01-01,""akku Künstleratelier"",""Leistungskontrakt"",""Bildende Kunst"",""Leistungskontrakt"",15000"
-"2024-01-01,""Villa Grunholzer"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2024-01-01,""SwissJazzOrama SJO"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",25000"
-"2024-01-01,""Stadtmusik Uster"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2024-01-01,""Verein Openair für Uster (HU)"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",15000"
-"2024-01-01,""Verein Zeughausareal"",""Leistungskontrakt"",""Fachstelle Kultur"",""Leistungskontrakt"",230000"
-"2024-01-01,""Top Klassik Zürcher Oberland"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",20000"
-"2024-01-01,""KUfKI"",""Leistungskontrakt"",""Konzert & Theater"",""Leistungskontrakt"",16000"
-"2024-01-01,""Ustertagskomitee"",""Leistungskontrakt"",""Fachstelle Kultur"",""Leistungskontrakt"",30000"
-"2024-01-01,""Uster Agenda"",""Leistungskontrakt"",""Fachstelle Kultur"",""Leistungskontrakt"",25000"
-"2024-06-03,""The Flying Circus"",""Zirkus Gastspiel «Catastrofonia», 15.09.2024, Stadtpark, Uster"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2024-06-03,""Verein Openair für Uster, H2U"",""Zeughausfest, 25.5.2024. Zeughaus K1: A6 (zukünftige U-Boot Live Musik Bar)"",""Konzert & Theater"",""Projektbeitrag"",1000"
-"2024-06-03,""anda Verlag GmbH/anda Events"",""Felltuschgnusch – das pelzige Musiktheater von  Marius & die Jagdkapelle ab November auf den Theaterbühnen, 28. Dezember 2024, Stadthofsaal Uster"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2024-06-03,""JazzVoices Zürich"",""Groovin' Hard - JazzVoices Zürich & Trio, 16./17./30.11.2024, Zürich Hottingen und Musikcontainer Uster"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2024-06-03,""Freie Bühne Uster"",""Theateraufführungen «Mord im Orientexpress», 26.09.2024 - 19.10.2024 (15 Vorstellungen), Kulturhaus Central, Uster"",""Konzert & Theater"",""Projektbeitrag"",6000"
-"2024-06-03,""Verein Klassik im Schloss/Rüden"",""Klassik im Schloss, Saison 2025, 16.&30.3., 13.4., 13.9., 4.&25.10.25, Schloss Uster"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2024-06-03,""Thomas Lüthi"",""Album-Produktion, 12./13. Juli 2024, Pas d’oreilles Studio Zürich"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2024-06-03,""Konzeptbox"",""12-1/2 Ustergeschichten (Vorprojekt), 2025 Jubiläumsjahr 1250 Jahre Uster, qtopia und online - Projektionen ad hoc"",""Film & Kino"",""Projektbeitrag"",8000"
-"2024-06-03,""Beyond Silence Concerts"",""Neues Orchester Uster: 1. Konzert, 1. November 2024, Stadthofsaal Uster"",""Konzert & Theater"",""Projektbeitrag"",7000"
-"2024-08-26,""Jazzclub Uster"",""Jazzclub Uster, September 2024 - April 2025, Musikcontainer Uster"",""Konzert & Theater"",""Projektbeitrag"",14000"
-"2024-08-26,""Dakar-Produktion - Theater mit Puppen und Menschen"",""Auf Bäume klettern, 5./6./7./8.12.24, 10./11.1.25, Mai 2025, Theater Stadelhofen/ThiK Baden/Central Uster"",""Konzert & Theater"",""Projektbeitrag"",5000"
-"2024-08-26,""Musiker-Ensemble  Lalli / D'Angelo / Verità "",""Klangzauber der Belle Époque, 26.1.25, MusikContainer Uster"",""Konzert & Theater"",""Projektbeitrag"",1800"
-"2024-08-26,""Japanischer Frauenchor Zürich - Naomi Bozzini"",""8. Japanisches Chorfest, 14.6.225, Reformierte Kirche Uster"",""Konzert & Theater"",""Projektbeitrag"",2500"
-"2024-08-26,""Marion Bigger Buchli, Ludit GmbH"",""Usterspiel, Verkauf/Abgabe ab 5.9.25, Bei Familien, in Spielkreisen, bei Kulturinteressierten"",""Bildende Kunst"",""Projektbeitrag"",1500"
-"2024-08-26,""Dominic Kramer"",""Fassadenkunst im Zeughausareal, Sa,14.9 / Mi,18. & 25.9.24 / + 5 Tage in Herbstferien 24, Zeughausareal Uster"",""Bildende Kunst"",""Projektbeitrag"",8150"
-"2024-08-26,""must"",""Konzertwoche im Advent, 2. bis 6.12.24, Stadthausfoyer"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2024-08-26,""Bechtler Stiftung"",""Walter de Maria’s «Ocean Music» und «Cricket Music», live gespielt von Lucas Niggli, 29.9.24, Bechtler Stiftung"",""Konzert & Theater"",""Projektbeitrag"",3000"
-"2024-08-26,""Compagnia Za-Zà"",""Freilicht Theater: Molière Cie Za-Zà, Anfang August 2025, Stadtpark Uster"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2024-08-26,""Filacro"",""Circo Fantazztico, 8./9.9.24, filacro Circus-Schule"",""Konzert & Theater"",""Projektbeitrag"",1200"
-"2024-08-26,""Trigger Concert Big Band"",""De Bogotá a Nueva York, 22./23./24.11.24, Zug (Hünenberg), Uster, Rapperswil-Jona"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2024-08-26,""Vadane"",""Vadane: Album und Tour «Le beau monde», 2.11.24 - 21.3.25, diverse"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2024-11-25,""Avital Cohen & Company"",""AIR POÉTIQUE 5785 / TALES OF AIR & EARTH, 24./25.10.2025, Central Uster plus diverse andere Daten und Orte"",""Konzert & Theater"",""Projektbeitrag"",18000"
-"2024-11-25,""PIALETO"",""Leuchtfigur für das Stadtfest Uster, Bau: In der Woche 34 und 36, Im Park der Villa am Aabach"",""Bildende Kunst"",""Projektbeitrag"",15000"
-"2024-11-25,""Ingo Ospelt"",""Drehbuch Entwicklung, 1.12.2025 - 31.1.2026, Arbeitsort Uster"",""Film & Kino"",""Projektbeitrag"",8000"
-"2024-11-25,""Verein Openair für Uster, H2U"",""Kultur im U-Boot, 2024: 8.11., 22.11., 6.12., 2025: 10.1., 16.1, 24.1., 7.2, U-Boot Bar, Zeughaus, Uster"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2024-11-25,""Konzeptbox"",""12-1/2 Ustergeschichten (Hauptprojekt), 2025 Jubiläumsjahr 1250 Jahre Uster, Kino qtopia und online - Projektionen ad hoc - Schulen"",""Film & Kino"",""Projektbeitrag"",40000"
-"2024-11-25,""Dorothée Däster"",""Il peso dell'aria, 6.9.25, Stadtpark"",""Konzert & Theater"",""Projektbeitrag"",3500"
-"2024-11-25,""Central Uster"",""Duster in Uster, 5./6./7. September 2025, Schloss Uster/Reformierte Kirche/Wald/Brauerei/Aabach"",""Konzert & Theater"",""Projektbeitrag"",30000"
-"2024-11-25,""Hinterhalt Verein"",""Hinterhalt Festival 2025, 27./ 28./ 29. Juli 2025, Seestrasse 64 / Lenzlinger-Areal"",""Konzert & Theater"",""Projektbeitrag"",45000"
-"2024-11-25,""Karen Geyer"",""Jahresprogramm Führungen i ö Raum, 06.03.,03.04.,01.05.,05.06.,03.07.,07.08.,04.09.,02.10.25, gesamte Stadt Uster, Kunstwerke im öffentlichen Raum"",""Bildende Kunst"",""Projektbeitrag"",8000"
-"2025-03-03,""Kunstverein Uster"",""Kunst+ (Total ca 19 Veranstaltungen), Januar bis Dezember 2025, Uster"",""Bildende Kunst"",""Projektbeitrag"",5000"
-"2025-03-03,""Genossenschaft Klairs Nänikon"",""Live im Klairs 2025, 9.3.25,27.4.25,18.5.25, 15.6.25,31.6.25,28.9.25,26.10.25,14.12.25, Klairs, Bühlstrasse 16, 8606 Nänikon"",""Konzert & Theater"",""Projektbeitrag"",2000"
-"2025-03-03,""Qtopia und Internationale Kurzfilmtage Winterthur"",""Kurzfilmnacht Uster 2025, Samstag, 12. April 2025, Schweiz, Stadt Uster, qtopia Kino+Bar"",""Film und Kino"",""Projektbeitrag"",2500"
-"2025-03-03,""Orgelfestival"",""Orgelfestival 2025, 17.8. - 21.9.25, Reformierte Kirche Uster"",""Konzert & Theater"",""Projektbeitrag"",8000"
-"2025-03-03,""Künstlergruppe Uster"",""Ausstellung Künstlergruppe Uster, 27. Sept.– 12. Oktober 25, Zeughaus K2"",""Bildende Kunst"",""Projektbeitrag"",3000"
-"2025-03-03,""Nina Widmer, Dina Sommerhalder, Anja Rüttimann, Yamina Wehrli"",""Erstes Komponistinnen-Festival Uster, 13. und 15. Juni 2025, U-Boot-Bar, Katholische Kirche Uster"",""Konzert & Theater"",""Projektbeitrag"",8000"
-"2025-03-03,""Sängerbund Uster"",""Musiktheater Simeliberg, 27./28. September 2025, Festsaal Wagerenhof, Asylstrasse, Uster"",""Konzert & Theater"",""Projektbeitrag"",5000"
-"2025-03-03,""must"",""Konzerte für Frühaufstehende, Montag 23. Juni bis Freitag 27. Juni 2025, Stadtbibliothek"",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2025-03-03,""Glauser Quintett"",""Glauser Quintett: „Ich komme mit“, Proben ab Sommer 2025, Premiere im Januar 2026, Uster, Zürich, Weinfelden, Baden etc."",""Konzert & Theater"",""Projektbeitrag"",4000"
-"2025-03-03,""Cantapè"",""Requiem Giuseppe Verdi, 13. September 2025, reformierte Kirche Uster"",""Konzert & Theater"",""Projektbeitrag"",4500"
-"2025-03-03,""must"",""must-Festival am Stadtfest 2025, Sonntag 7.9.2025, 12-18h, Kleine Bühne bei der Brauerei"",""Konzert & Theater"",""Projektbeitrag"",12000"
-"2025-03-03,""Luca Filisetti & Maurus Feyen von Klangsthase"",""Jam dich nicht!, jeweils am letzten Mittwoch des Monats (Start am 26.03.2025), Central Uster"",""Konzert & Theater"",""Projektbeitrag"",6000"
-"2025-03-03,""Verein Open Air für Uster"",""Kultur im U-Boot (H2U-Bühne), diverse Daten im 2025 (s. Projektbeschreibung), U-Boot Bar, Zeughausareal, Uster"",""Konzert & Theater"",""Projektbeitrag"",13600"
-"2025-03-03,""der grosse tyrann"",""WANDATHEATER, 13. September 2025, Zeughausareal Uster"",""Konzert & Theater"",""Projektbeitrag"",1500"
-"2025-03-03,""Dimitrina Sevova (Corner College)"",""Gruppenausstellung Earthly Things – Ghostly Matters, 13.-21. September 2025, Raum 2, Zeughausareal Uster, K2"",""Bildende Kunst"",""Projektbeitrag"",10000"
+"DatumEntscheid","Gesuchssteller","Projekt","Foerderbereich","Foerderart","FoerderbeitragCHF"
+"2018-02-22","Quartierverein Oberuster","Bachgassfest","Gemeinwesen","Projektbeitrag",5000
+"2018-02-22","Verein OpenAir fÃ¼r Uster","H2U-Sessions Winter-FrÃ¼hling 18","Konzert & Theater","Projektbeitrag",2000
+"2018-02-22","Filacro","KulturkalÃ¤nder 2018","Konzert & Theater","Projektbeitrag",6000
+"2018-02-22","Verein OpenAir fÃ¼r Uster","H2U OpenAir 2018","Konzert & Theater","Projektbeitrag",25000
+"2018-02-22","must","Konzerte fÃ¼r FrÃ¼haufstehende","Konzert & Theater","Projektbeitrag",4000
+"2018-02-22","Theater Synthese","Â«The Show Must Go On!â€œ","Konzert & Theater","Projektbeitrag",3000
+"2018-02-22","Qtopia","Kurzfilmnacht 2018","Film & Kino","Projektbeitrag",2500
+"2018-02-22","Eos Guitar Quartet","Konzert 30-jÃ¤hriges JubilÃ¤um","Konzert & Theater","Projektbeitrag",4000
+"2018-02-22","Kammerchor Uster","Konzert vomÂ  24.11.2018","Konzert & Theater","Projektbeitrag",3000
+"2018-02-22","ProIntegras","Theaterprojekt Â«Sturmâ€œ","Konzert & Theater","Projektbeitrag",2500
+"2018-02-22","KÃ¼nstlergruppe Uster","Ausstellung 2018","Bildende Kunst","Projektbeitrag",3000
+"2018-05-22","Orgelfestival","Orgelfestival 2018","Konzert & Theater","Projektbeitrag",6000
+"2018-05-22","Heinz Girschweiler","Biografie Dr. hc. Jakob Zollinger","Konzert & Theater","Projektbeitrag",1000
+"2018-05-22","Quartierverein Winikon","Quartierfest 2018","Gemeinwesen","Projektbeitrag",500
+"2018-05-22","Swissjazzorama","Veranstaltungen 2018","Konzert & Theater","Projektbeitrag",4000
+"2018-05-22","Klassik im RÃ¼den","Klassik im Schloss","Konzert & Theater","Projektbeitrag",2500
+"2018-05-22","Freie BÃ¼hne Uster","Theater Die Heiratsvermittlerin","Konzert & Theater","Projektbeitrag",6000
+"2018-05-22","Konzeptbox","TALK ABOUT Uster","Konzert & Theater","Projektbeitrag",3000
+"2018-05-22","Zirkus Chnopf","Freilichtspektakel GUGUS","Konzert & Theater","Projektbeitrag",3000
+"2018-05-22","Jazzclub","Konzert-Saison 2018/19","Konzert & Theater","Projektbeitrag",15000
+"2018-05-22","Compagnie Stradini","Lampedame - Freilufttheater","Konzert & Theater","Projektbeitrag",1000
+"2018-06-05","Zeughausfest","Konzert, Ausstellung","Zeughaus","Projektbeitrag",8897
+"2018-08-22","Michael Wyss","Buchprojekt (Lyrikband)","Konzert & Theater","Projektbeitrag",1500
+"2018-08-22","Kammerorchester Uster","Klassisches Sommerkonzert","Konzert & Theater","Projektbeitrag",1750
+"2018-08-22","Trio Pegasus","Karussell (Konzerttitel)","Konzert & Theater","Projektbeitrag",1800
+"2018-08-22","ACLI","Theater: Letto a due piezze","Konzert & Theater","Projektbeitrag",1200
+"2018-08-22","Ensemble Fiorenza","Wiederaufnahme Â«ZikadenÂ»","Konzert & Theater","Projektbeitrag",1000
+"2018-08-22","must","Konzertwoche Â«must im AdventÂ»","Konzert & Theater","Projektbeitrag",4000
+"2018-08-22","insieme ZÃ¼rcher Oberl.","Â«der Josa mit der ZauberfiedelÂ»","Konzert & Theater","Projektbeitrag",2500
+"2018-08-22","TopoÃ¯.log","un behaust â€“ Brecht, Weill","Konzert & Theater","Projektbeitrag",2500
+"2018-08-22","Stradis Orchester","Silvester- und Neujahrskonzerte","Konzert & Theater","Projektbeitrag",1500
+"2018-08-22","Theater Kanton ZÃ¼rich","Freilichttheater: Sommernachtstraum","Konzert & Theater","Projektbeitrag",5500
+"2018-08-22","Theater Kanton ZÃ¼rich","Freilichttheater: Kleider machen Leute","Konzert & Theater","Projektbeitrag",5500
+"2018-12-06","FotobÃ¼ro Bern","fotoCH","Bildende Kunst","Projektbeitrag",500
+"2018-12-06","Trigger Concert Big Band","Concert Big Band feat. Bert Joris â€“ Portrait","Konzert & Theater","Projektbeitrag",1000
+"2018-12-06","Nossiker KulturhÃ¼sli","Konzert Duo Goran Kovacevic,","Konzert & Theater","Projektbeitrag",1800
+"2018-12-06","Mundarte","TheaterstÃ¼ck Â«Mini Wohnigâ€œ","Konzert & Theater","Projektbeitrag",1200
+"2018-12-06","Kammerorchester Uster","Klassisches Winterkonzert","Konzert & Theater","Projektbeitrag",4000
+"2018-12-06","Giampaolo Russo","Ausstellung: Salon der Gegenwart","Bildende Kunst","Projektbeitrag",4000
+"2018-12-06","Florian Reichle","EP Produktion Â«The Beautiful Nowâ€œ","Bildende Kunst","Projektbeitrag",1500
+"2018-12-06","Verein Open Air fÃ¼r Uster","H2U Sessions Winter-FrÃ¼hling 2018/2019","Konzert & Theater","Projektbeitrag",2400
+"2018-12-06","Verein Open Air fÃ¼r Uster","H2U Openair 2019","Konzert & Theater","Projektbeitrag",25000
+"2018-12-06","AusstellungsbÃ¼ro Palma3","Â«Mobil! Unterwegs mit VisionÃ¤renâ€œ","Bildende Kunst","Projektbeitrag",4000
+"2018-12-06","Jazzchor Arcas Syncopics","Konzert Â«Short Stories od Jazz Part IIÂ \nÂ lâ€œ","Konzert & Theater","Projektbeitrag",3000
+"2018-12-06","Ausstellung Bickel","Kunstausstellung Zeughaus","Bildende Kunst","Projektbeitrag",400
+"2018-05-22","Kunstplakate","Beitrag Kunstplakate","Bildende Kunst","Kunstplakate",7000
+"2018-06-25","Atelier Genua","Stipendium Auslandatelier","Bildende Kunst","Stipendium",4500
+"2018-07-13","Atelier Kairo","Stipendium Auslandatelier","Bildende Kunst","Stipendium",9000
+"2018-01-29","Verein Usteragenda","Leistungskontrakt","Fachstelle Kultur","Leistungskontrakt",25000
+"2018-03-16","Kulturgemeinschaft Uster","Leistungskontrakt, Jahresprogramm Central","Konzert & Theater","Leistungskontrakt",110000
+"2018-04-18","Platz fÃ¼r andere Musik (PAM)","Leistungskontrakt, Jahresprogramm","Konzert & Theater","Leistungskontrakt",8000
+"2018-05-07","Kultur fÃ¼r Kinder (Kufki)","Leistungskontrakt, Jahresprogramm","Konzert & Theater","Leistungskontrakt",15000
+"2018-06-25","Akku, KÃ¼nstleratelier","Leistungskontrakt, Ausstellung, Atelier","Konzert & Theater","Leistungskontrakt",15000
+"2018-07-05","Musikschule (MSUG)","Leistungskontrakt, Konzertprogramm","Konzert & Theater","Leistungskontrakt",15000
+"2018-07-08","Villa Grundholzer","Leistungskontrakt, Jahresprogramm","Konzert & Theater","Leistungskontrakt",20000
+"2018-09-15","Kulturverein â€œZum Hutâ€œ","Leistungskontrakt, Jahresprogramm","Konzert & Theater","Leistungskontrakt",9000
+"2018-11-30","Swissjazzorama","Leistungskontrakt, Jazzarchiv und Museum","Konzert & Theater","Leistungskontrakt",25000
+"2018-12-01","Graphos","Leistungskontrakt, Druckereimuseum","Konzert & Theater","Leistungskontrakt",15000
+"2019-02-28","Mundart","Theaterproduktion: Mini Wohnig","Konzert & Theater","Projektbeitrag",5000
+"2019-03-04","AVIS","Konzert Â«Un Palco all'OperaÂ»","Konzert & Theater","Projektbeitrag",2000
+"2019-03-04","Qtopia","Kurzfilmnacht 2019","Film & Kino","Projektbeitrag",2000
+"2019-03-04","Klassik im RÃ¼den","Klassik im Schloss 2019","Konzert & Theater","Projektbeitrag",2500
+"2019-03-04","Jazzclub Uster","Konzert-Saison 2019/20","Konzert & Theater","Projektbeitrag",15000
+"2019-03-04","Orgelfestival Uster","Orgelfestival 2019","Konzert & Theater","Projektbeitrag",6000
+"2019-03-04","Kulturprogramm Â«graumÂ»","Vorstellung Â«LOG, ein clowneskes TheaterÂ»","Konzert & Theater","Projektbeitrag",500
+"2019-03-04","Verein ProbebÃ¼hne Turicaphon","Theater Â«Clip & ClaraÂ»","Konzert & Theater","Projektbeitrag",500
+"2019-03-04","Nadine Philipp","Tanzproduktion","Konzert & Theater","Projektbeitrag",1500
+"2019-03-04","Konkret","Konkret Festival 2019","Konzert & Theater","Projektbeitrag",3000
+"2019-03-04","Kosmos Film GmbH","Dok-Film Â«DER TRAUM VON TOKIOÂ»","Film & Kino","Projektbeitrag",5000
+"2019-03-04","KÃ¼nstlergruppe Uster","Ausstellung Â«KÃ¼nstlergruppe Uster 2019Â»","Bildende Kunst","Projektbeitrag",2500
+"2019-03-04","Missing Owl","Theater: Die Stadt der motorisierten Roll.","Konzert & Theater","Projektbeitrag",500
+"2019-03-04","Nossiker KulturhÃ¼sli","AuffÃ¼hrung Â«GRAND HOTELÂ»","Konzert & Theater","Projektbeitrag",500
+"2019-03-04","Nossiker KulturhÃ¼sli","MatinÃ©e Â«TIKVITSAÂ»","Konzert & Theater","Projektbeitrag",500
+"2019-03-04","Remo Hunziker","Musikalbum Â«SchattenspielÂ»","Konzert & Theater","Projektbeitrag",1500
+"2019-03-04","Ensemble Fiorenza","Produktion Â«AllergieÂ»","Konzert & Theater","Projektbeitrag",25000
+"2019-03-04","Zapzarap","Premiere und zwei Vorstellungen","Konzert & Theater","Projektbeitrag",3000
+"2019-03-04","Gemeindeverein NÃ¤nikon","Live im Klairs","Konzert & Theater","Projektbeitrag",1500
+"2019-03-31","Pro Kultur","Jahresbeitrag","Fachstelle Kultur","Projektbeitrag",400
+"2019-04-30","Kunstplakate","Kunstplakate 2019-2020","Bildende Kunst","Projektbeitrag",7000
+"2019-05-27","must","Konzerte fÃ¼r FrÃ¼haufstehende","Konzert & Theater","Projektbeitrag",4000
+"2019-05-27","Pudel und Pinscher","Buch Â«Los Alamos ist winzigÂ» Dieter Zwicky","Konzert & Theater","Projektbeitrag",2000
+"2019-05-27","Freie BÃ¼hne Uster","Theater Â«Zimmer 12aÂ»","Konzert & Theater","Projektbeitrag",6000
+"2019-05-27","Ensemble Theater Synthese","AuffÃ¼hrung Theater Â«Herr MÃ¼ller muss wegÂ»","Konzert & Theater","Projektbeitrag",2000
+"2019-05-27","Kleinjogg Kulturverein","2. Auflage Â«Kleinjogg GedenkschriftÂ»","Konzert & Theater","Projektbeitrag",2000
+"2019-05-27","DAKAR-Produktion","Produktion: Â«Mit der Zeit muss man gehenÂ»","Konzert & Theater","Projektbeitrag",10000
+"2019-05-27","Filacro","Programmbeitrag: Â«KulturkalÃ¤nder 2019/20Â»","Konzert & Theater","Projektbeitrag",10000
+"2019-05-27","Stadt-Jodler-Uster","Jodlerfest: Umzug in Winterthur","Konzert & Theater","Projektbeitrag",1000
+"2019-09-02","Zirkus Chnopf","Zirkus: Â«OPTIMUMÂ»","Konzert & Theater","Projektbeitrag",3000
+"2019-09-02","Nandigosha Group","CD Produktion","Konzert & Theater","Projektbeitrag",1000
+"2019-09-02","ACLI","Italienisches TheaterstÃ¼ck","Konzert & Theater","Projektbeitrag",500
+"2019-09-02","UnerhÃ¶rt FestivalbÃ¼ro","UnerhÃ¶rt Festival -Â  ErÃ¶ffnungsabend","Konzert & Theater","Projektbeitrag",3000
+"2019-09-02","must","must im Advent","Konzert & Theater","Projektbeitrag",4000
+"2019-09-02","BÃ¼hnenkollektiv","Produktion: Â«EisbombeÂ \nÂ»","Konzert & Theater","Projektbeitrag",6000
+"2019-09-02","Theater topoi:log","Theater: Â«Un_behaust â€“ Brecht/WeillÂ»","Konzert & Theater","Projektbeitrag",500
+"2019-09-02","Verein ProbebÃ¼hne Turicaphon","Theater: Â«Nagelritz - Expedition MondÂ»","Konzert & Theater","Projektbeitrag",500
+"2019-09-02","Verein Kultur am Gleis","Programmbeitrag: Â«Kultur am GleisÂ»","Konzert & Theater","Projektbeitrag",2500
+"2019-09-02","Verlag Intakt Records","CD Produktion: Â«Niggli, Keita, BrÃ¶nnimannÂ»","Konzert & Theater","Projektbeitrag",1000
+"2019-09-02","A.C.S.I.","Theater: Â«Terra matta -Theater aus SizilienÂ»","Konzert & Theater","Projektbeitrag",500
+"2019-12-02","Bharateeya Kalalayam","Bharatheeyakalolsavam â€˜20 (Miete Stadthof)","Konzert & Theater","Projektbeitrag",2000
+"2019-12-02","Verein Klassik im RÃ¼den","Programmbeitrag: Â«Klassik im Schloss 2020Â»","Konzert & Theater","Projektbeitrag",2500
+"2019-12-02","Orgelfestival Uster","Programmbeitrag: Â«Orgelfestival UsterÂ»","Konzert & Theater","Projektbeitrag",6000
+"2019-12-02","Verein Hinterhalt","6. Hinterhalt Festival 2020","Konzert & Theater","Projektbeitrag",25000
+"2019-12-02","Verein Openair fÃ¼r Uster","Musik: H2U Sessions Winter-FrÃ¼hling 19/20","Konzert & Theater","Projektbeitrag",1800
+"2019-12-02","Verein Openair fÃ¼r Uster","Musik: H2U Openair Uster 2020","Konzert & Theater","Projektbeitrag",22000
+"2019-12-02","Kammerorchester Uster","Klassisches Winterkonzert","Konzert & Theater","Projektbeitrag",2000
+"2019-01-31","Top Klassik ZÃ¼rioberland","Leistungskontrakt, Programm Uster","Konzert & Theater","Leistungskontrakt",20000
+"2019-02-28","Kulturgemeinschaft Uster","Leistungskontrakt, Jahresprogramm Central","Konzert & Theater","Leistungskontrakt",110000
+"2019-03-31","Verein Usteragenda","Leistungskontrakt","Fachstelle Kultur","Leistungskontrakt",25000
+"2019-03-31","Platz fÃ¼r andere Musik (PAM)","Leistungskontrakt, Jahresprogramm","Konzert & Theater","Leistungskontrakt",8000
+"2019-05-31","Kultur fÃ¼r Kinder (Kufki","Leistungskontrakt, Jahresprogramm","Konzert & Theater","Leistungskontrakt",15000
+"2019-05-31","Akku, KÃ¼nstleratelier","Leistungskontrakt, Ausstellung, Atelier","Konzert & Theater","Leistungskontrakt",15000
+"2019-07-17","Musikschule (MSUG)","Leistungskontrakt, Jahresprogramm","Konzert & Theater","Leistungskontrakt",15000
+"2019-08-26","Kulturverein Â«Zum HutÂ»","Leistungskontrakt, Jahresprogramm","Konzert & Theater","Leistungskontrakt",9000
+"2019-09-19","Stadtmusik","Leistungskontrakt, Jahresprogramm","Konzert & Theater","Leistungskontrakt",15000
+"2019-10-08","Villa Grundholzer","Leistungskontrakt, Jahresprogramm","Konzert & Theater","Leistungskontrakt",20000
+"2019-11-20","Graphos","Leistungskontrakt, Druckereimuseum","Konzert & Theater","Leistungskontrakt",15000
+"2019-12-01","Swissjazzorama","Leistungskontrakt, Jazzarchiv und Museum","Konzert & Theater","Leistungskontrakt",25000
+"2020-02-17","Chris Conz","Boogie-Woogie an 2 Pianos mit Frank Muschalle & Chris Conz","Konzert & Theater","Projektbeitrag",500
+"2020-02-17","Vitoria Pinto","Boxenstopp - Gruppenausstellung Bildende Kunst","Bildende Kunst","Projektbeitrag",5000
+"2020-02-17","Filacro","Move & Groove Festival","Konzert & Theater","Projektbeitrag",500
+"2020-02-17","Jazzlub Uster","Konzertsaison 2020/21","Konzert & Theater","Projektbeitrag",18000
+"2020-02-17","Verein Konkret","Konkret Festival 2020","Konzert & Theater","Projektbeitrag",3000
+"2020-02-17","Must","Konzerte fÃ¼r FrÃ¼haufstehende 2020","Konzert & Theater","Projektbeitrag",4000
+"2020-02-17","Nossiker KulturhÃ¼sli","(V21) Konzert mit UrtÃ¶nig ","Konzert & Theater","Projektbeitrag",500
+"2020-02-17","Nossiker KulturhÃ¼sli","Buchpremiere â€“ Lesung Katharina Gaiser","Konzert & Theater","Projektbeitrag",500
+"2020-02-17","KÃ¼nstlergruppe Uster","Ausstellung 2020 (V21)","Bildende Kunst","Projektbeitrag",2500
+"2020-02-17","Qtopia","Kurzfilmnacht 2020","Film & Kino","Projektbeitrag",2000
+"2020-02-17","Verein Kultur am Gleis","Kultur am Gleis 2020","Konzert & Theater","Projektbeitrag",2500
+"2020-02-17","Konzert MSUG","(V21) Konzertreihe 20/21 ","Konzert & Theater","Projektbeitrag",5000
+"2020-02-17","DOXS Tanzkompanie","MITreden â€“ Tanzproduktion","Konzert & Theater","Projektbeitrag",6000
+"2020-02-17","Klairs NÃ¤nikon","Live im Klairs 2020","Konzert & Theater","Projektbeitrag",1500
+"2020-05-25","Klassik im RÃ¼den","Klassik im Schloss 2021","Konzert & Theater","Projektbeitrag",2500
+"2020-05-25","Glauser Quintett","Literarisches Konzert Â«In fremden GÃ¤rtenÂ»","Konzert & Theater","Projektbeitrag",4000
+"2020-05-25","Freie BÃ¼hne Uster","(V21) Theater Â«Arsen und SpitzenhÃ¤ubchenÂ» von J. Kesselring ","Konzert & Theater","Projektbeitrag",6000
+"2020-05-25","Die Statisten","(V21) Musik-TheaterstÃ¼ck Â«medea3 Musik + TodÂ»","Konzert & Theater","Projektbeitrag",1000
+"2020-05-25","amiamusica","Â«Musik-Picknick am SeeÂ» mit miles4amiamusica","Konzert & Theater","Projektbeitrag",800
+"2020-05-25","Alice Mor","EP-Produktion Â«LightsÂ»","Konzert & Theater","Projektbeitrag",1500
+"2020-08-24","Ensemble Fiorenza","(V21) Ludwig & Gloria oder Die Orchidee â€“ Live-HÃ¶rspiel","Konzert & Theater","Projektbeitrag",8000
+"2020-08-24","SÃ¤ngerbund","(V21) Konzerte in ref. Kirche Uster und St. Peter ZÃ¼rich","Konzert & Theater","Projektbeitrag",7500
+"2020-08-24","Chris Conz","10th International Boogie Nights Uster","Konzert & Theater","Projektbeitrag",4000
+"2020-08-24","Sixoc Studios","PAPER PLANES - Kurzfilm im Bollywood Stil","Konzert & Theater","Projektbeitrag",2000
+"2020-08-24","Miro Lorenzo Maurer","(V21) Der KÃ¶nig von Uster - Die Uster-Revue (AT)","Konzert & Theater","Projektbeitrag",8000
+"2020-08-24","KulturFutur","Die Bank - Theaterproduktion und AuffÃ¼hrungen","Konzert & Theater","Projektbeitrag",20000
+"2020-08-24","Nadine Philipp","Flamenco im Kulturhaus Central","Konzert & Theater","Projektbeitrag",1500
+"2020-09-30","Ev.-ref. Kirche Uster","SchÃ¼leradventssingen 2020","Konzert & Theater","Projektbeitrag",1000
+"2020-11-23","SDJ, Suisse Diagonales Jazz","Suisse Diagonales Jazz 2021","Konzert & Theater","Projektbeitrag",1000
+"2020-11-23","Zukunft UNESCO-Welterbe","Die Pfahlbauer*in - vier Ausstellungen im Pfahlbausommers","Bildende Kunst","Projektbeitrag",4000
+"2020-11-23","Schlosschor Greifensee","Konzert, gemeinsam mit Kammerorchester Uster","Konzert & Theater","Projektbeitrag",2000
+"2020-11-23","Kosmos","KÃ¤mpfen fÃ¼r Olympia, Filmprojekt, Fortsetzung SRF DOK","Film & Kino","Projektbeitrag",4000
+"2020-01-31","Kulturgemeinschaft, KGU","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",110000
+"2020-02-23","Platz fÃ¼r andere Musik, PAM","Leistungskontrakt (letzte Zahlung)","Konzert & Theater","Leistungskontrakt",8000
+"2020-03-03","Musikschule, MSUG","Leistungskontrakt (letzte Zahlung)","Konzert & Theater","Leistungskontrakt",15000
+"2020-03-09","Uster Agenda","Leistungskontrakt","Fachstelle Kultur","Leistungskontrakt",25000
+"2020-06-18","Kultur fÃ¼r Kinder, Kufki","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",15000
+"2020-06-18","Top Klassik ZO","Leistungskontrakt","Bildende Kunst","Leistungskontrakt",20000
+"2020-06-22","Eisenbahn-Sammlung","Leistungskontrakt","Bildende Kunst","Leistungskontrakt",4000
+"2020-07-09","SwissJazzOrama SJO","Leistungskontrakt / MuseumsfÃ¶rderung (GR) ","Bildende Kunst","Leistungskontrakt",40000
+"2020-07-10","akku KÃ¼nstleratelier","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",15000
+"2020-08-10","Theater Synthese","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",5400
+"2020-08-31","Villa Grunholzer","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",20000
+"2020-09-01","Kulturverein zum Hut","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",9000
+"2020-11-18","Stadtmusik Uster","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",15000
+"2020-12-31","Graphos Druckereimuseum","MuseumsfÃ¶rderung (GR) / Ãœbernahme Miete Zeughaus","MuseumsfÃ¶rderung","Leistungskontrakt",20000
+"2020-12-31","Unteroffiziermuseum","MuseumsfÃ¶rderung (GR) / Ãœbernahme Miete Zeughaus","MuseumsfÃ¶rderung","Leistungskontrakt",20000
+"2021-02-01","Compagnie Roikkuva","Empire of Fools, 12.-13. September 2020","Konzert & Theater","Projektbeitrag",2500
+"2021-03-08","Pablo Infernal","Pablo Infernal - drittes Album","Konzert & Theater","Projektbeitrag",1500
+"2021-03-08","Musikschule Uster, MSUG","Konzertreihe 21/22","Konzert & Theater","Projektbeitrag",5000
+"2021-03-08","Chris Conz","Livestream-Konzerte 2021 aus dem Zeughausareal","Konzert & Theater","Projektbeitrag",2400
+"2021-03-08","Orgelfestival","Orgelfestival 2021, JubilÃ¤um, 30 Jahre Orgelfestival (statt 2020)","Konzert & Theater","Projektbeitrag",6000
+"2021-03-08","Verein KOSMOSE","KOSMOSE, Elf Positionen zeitgenÃ¶ssischer Kunst im K2","Konzert & Theater","Projektbeitrag",5000
+"2021-03-08","must","Konzerte fÃ¼r FrÃ¼haufstehende","Konzert & Theater","Projektbeitrag",4000
+"2021-03-08","Hinterhalt Verein","Zwischenhalt 2021","Konzert & Theater","Projektbeitrag",14000
+"2021-03-08","Qtopia","Qtopia, Kurzfilmnacht 2021","Film & Kino","Projektbeitrag",2000
+"2021-03-08","KufKi","KUfKi-Festival Â«HoffnungÂ»","Konzert & Theater","Projektbeitrag",3000
+"2021-03-25","Verein Konkret","Konkret Festival 2021","Konzert & Theater","Projektbeitrag",3000
+"2021-03-25","Interstellar Music GmbH","CACHITA - EP Â«BriefeÂ»","Konzert & Theater","Projektbeitrag",1500
+"2021-06-02","Fridolin Berger","Serenade am Aabach - mit Picknick","Konzert & Theater","Projektbeitrag",2000
+"2021-06-02","Kunstfabrik Wetzikon","Ausstellung (Kunstfabrik Wetzikon und K2 Uster)","Bildende Kunst","Projektbeitrag",2000
+"2021-06-02","Verein Openair fÃ¼r Uster, H2U","H2U Shelter Sessions: JaÃ«l (im Akustik-Trio)","Konzert & Theater","Projektbeitrag",1500
+"2021-06-02","Verein Openair fÃ¼r Uster, H2U","H2U Openair Uster 2021- Â«S ZÃ¼ghuus Openair - zmitzt in UschterÂ»","Konzert & Theater","Projektbeitrag",25000
+"2021-06-02","Patric Birrer","Creating Jazz Sounds","Konzert & Theater","Projektbeitrag",1200
+"2021-06-02","Verein fÃ¼r wirtschaftshistorische Studien","Forschungs- und Buchprojekt Heinrich Kunz, Herbst 2021","Konzert & Theater","Projektbeitrag",4000
+"2021-06-02","Verein netzWERK","Tanzprojekt Â«Durchs NetzÂ»","Konzert & Theater","Projektbeitrag",4000
+"2021-06-02","Jazzclub Uster","Konzert-Saison 2021/22","Konzert & Theater","Projektbeitrag",18000
+"2021-08-30","Topoi:Log","Theater un_behaust 2.0 - Eine Orientierung mit Berta","Konzert & Theater","Projektbeitrag",500
+"2021-08-30","Compagnie Roikkuva","Roikkuva's Kulturpalast, Wanderzirkus, Â«Empire of foolsÂ»","Konzert & Theater","Projektbeitrag",2500
+"2021-08-30","Klassik im RÃ¼den","Klassik im Schloss, Klassik im Schloss, Saison 2022","Konzert & Theater","Projektbeitrag",2500
+"2021-08-30","Zirkus Chnopf","Zirkus Chnopf Â«LEVEL 2748Â»","Konzert & Theater","Projektbeitrag",3000
+"2021-08-30","Verband zum Schutz des Greifensees","NGZH-Neujahrsblatt 2022 Â«Der GreifenseeÂ»","Konzert & Theater","Projektbeitrag",2000
+"2021-08-30","akku KÃ¼nstleratelier Uster","Sanierung Kunstkiste","Konzert & Theater","Projektbeitrag",2000
+"2021-08-30","Jan Hofer","A New New Material in Direct Democracy","Bildende Kunst","Projektbeitrag",2000
+"2021-11-22","Nossiker KulturhÃ¼sli","Konzert Trio Crossover, Nossiker KulturhÃ¼sli","Konzert & Theater","Projektbeitrag",1000
+"2021-11-22","Tobias Krebs","TRIQUETA Ensemble Tonaufnahme Â«AmainirisÂ»","Konzert & Theater","Projektbeitrag",1000
+"2021-11-22","Kammerorchester Uster","Klassisches Konzert","Konzert & Theater","Projektbeitrag",2000
+"2021-11-22","Pudel und Pinscher, \nedition pudelundpinscher","Buch Â«VroelingÂ» von Dieter Zwicky","Konzert & Theater","Projektbeitrag",2000
+"2021-11-22","Nina Widmer","TeehausMusik","Konzert & Theater","Projektbeitrag",1800
+"2021-11-22","KulturFutur","DIE BANK - Theatertournee 2022","Konzert & Theater","Projektbeitrag",15000
+"2021-11-22","DOXS Tanzkompanie","Zitrone - Tanzproduktion, April bis Dezember 2022","Konzert & Theater","Projektbeitrag",15000
+"2022-02-28","Verein Openair fÃ¼r Uster, H2U","H2U Sessions Winter/FrÃ¼hling 2022","Konzert & Theater","Projektbeitrag",2500
+"2022-02-28","Verein Kultur am Gleis","Verein Kultur am Gleis - Veranstaltungen Q4 2021","Konzert & Theater","Projektbeitrag",1000
+"2022-02-28","David Sautter","Tonaufnahmen FlÃ¶ten / Gitarre, MÃ¤rz 2022","Konzert & Theater","Projektbeitrag",1500
+"2022-02-28","KÃ¼nstlergruppe Uster","KÃ¼nstlergruppe Uster, Ausstellung 2022","Bildende Kunst","Projektbeitrag",3000
+"2022-02-28","Dieter Zwicky","CD-Produktion HÃ¶rbuch Â«VroelingÂ» von Dieter Zwicky","Konzert & Theater","Projektbeitrag",1500
+"2022-02-28","Kammerorchester MÃ¤nnedorf-KÃ¼snacht","FrÃ¼hjahrskonzerte mit jugendlichen Solistinnen","Konzert & Theater","Projektbeitrag",500
+"2022-02-28","JOKO connected (Karin Jost, Regula J. Kopp)","Memories You Can Bring im Zeughausareal Uster, Mai 2022","Konzert & Theater","Projektbeitrag",3000
+"2022-02-28","Konkret","Konkret Festival 2022","Konzert & Theater","Projektbeitrag",3000
+"2022-02-28","Verein Regionalgeschichte ZÃ¼rcher Oberland","Regionalgeschichte ZÃ¼rcher Oberland, VerÃ¶ffentlichung 2025","Konzert & Theater","Projektbeitrag",5000
+"2022-02-28","Kufki - Kultur fÃ¼r Kinder","KUfKi-Kinder musizieren fÃ¼r Kinder (KmK), 06.02.2022 - 07.05.2023","Konzert & Theater","Projektbeitrag",1000
+"2022-02-28","Radio15.ch GmbH","Radio15.ch KÃ¼nstlerabend, 8.4.2022","Konzert & Theater","Projektbeitrag",500
+"2022-02-28","SÃ¤ngerbund","Klassisches Konzert, 29.10./5.11.22","Konzert & Theater","Projektbeitrag",7500
+"2022-02-28","Genossenschaft Klairs","Live im Klairs 2022","Konzert & Theater","Projektbeitrag",1500
+"2022-02-28","Qtopia/Internationale Kurzfilmtage Winterthur","Kurzfilmnacht Uster 2022","Film & Kino","Projektbeitrag",2000
+"2022-02-28","Sandra Ceriani","Teehaus Konzert - eine musikalische Reise mit Genuss, 20.3.22","Konzert & Theater","Projektbeitrag",500
+"2022-02-28","ProbebÃ¼hne Turicaphon","Sibylle Aeberli & Stefanie Grob - Musikalisch-theatraler Abend, 15.5.22","Konzert & Theater","Projektbeitrag",1000
+"2022-05-23","Cynthia Stucki","Kunstlokal Festival: Sammlungen bewegen, 27.08.-08.10.22, ZÃ¼rcher Oberland","Bildende Kunst","Projektbeitrag",5000
+"2022-05-23","Sharmila Rao & Stuti Aga","Leela - Elemente des Lebens, 18.6.22, Stadthofsaal Uster","Konzert & Theater","Projektbeitrag",1500
+"2022-05-23","Kammerorchester Uster","PERGOLESI - STABAT MATER, 1.7.22, Kath. Kirche Uster","Konzert & Theater","Projektbeitrag",2000
+"2022-05-23","Verein Orgelfestival Uster","Orgelfestival Uster, 25.8.-18.9.22, Ref. Kirche Uster","Konzert & Theater","Projektbeitrag",6000
+"2022-05-23","Freie BÃ¼hne Uster","Theater Lysistrate, 20.10.-5.11.22, Central Uster","Konzert & Theater","Projektbeitrag",6000
+"2022-05-23","Zirkus Chnopf","Zirkus Chnopf-Vorstellungen, 24.-28.8.22, Stadtpark Uster","Konzert & Theater","Projektbeitrag",3000
+"2022-05-23","Verein Kultur am Gleis","Kultur am Gleis 2022, CafÃ© Gleis 1, NÃ¤nikon","Konzert & Theater","Projektbeitrag",2500
+"2022-05-23","Kunstverein Uster","Kunstverein Uster, Programm Mai bis November 2022","Bildende Kunst","Projektbeitrag",2000
+"2022-05-23","Caracol Verlag","Sabine Abt fischfarbenprisma, 28.9.22, Warth/Uster","Konzert & Theater","Projektbeitrag",1500
+"2020-02-28","Kunstpreis","Kunstpreis an Perkussionist und Komponist Pierre Favre","Kunstpreis","Kunstpreis",10000
+"2021-02-28","Kunstpreis","Kunstpreis an Schauspielerin und Regisseurin Eveline Ratering","Kunstpreis","Kunstpreis",10000
+"2021-01-01","Kulturverein zum Hut","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",9000
+"2021-01-01","Kulturgemeinschaft Uster KGU","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",110000
+"2021-01-01","Eisenbahn-Sammlung Uster","Leistungskontrakt","Bildende Kunst","Leistungskontrakt",4000
+"2021-01-01","akku KÃ¼nstleratelier","Leistungskontrakt","Bildende Kunst","Leistungskontrakt",15000
+"2021-01-01","Villa Grunholzer","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",20000
+"2021-01-01","SwissJazzOrama SJO","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",40000
+"2021-01-01","Stadtmusik Uster","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",15000
+"2021-01-01","Top Klassik ZÃ¼rcher Oberland","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",20000
+"2021-01-01","KUfKI","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",15000
+"2021-01-01","Vereinbarung Ustertagskomitee","Leistungskontrakt","Fachstelle Kultur","Leistungskontrakt",30000
+"2021-01-01","Uster Agenda","Leistungskontrakt","Fachstelle Kultur","Leistungskontrakt",25000
+"2022-01-01","Kulturverein zum Hut","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",9000
+"2022-01-01","Kulturgemeinschaft Uster KGU","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",110000
+"2022-01-01","Eisenbahn-Sammlung Uster","Leistungskontrakt","Bildende Kunst","Leistungskontrakt",4000
+"2022-01-01","akku KÃ¼nstleratelier","Leistungskontrakt","Bildende Kunst","Leistungskontrakt",15000
+"2022-01-01","Villa Grunholzer","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",15000
+"2022-01-01","SwissJazzOrama SJO","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",25000
+"2022-01-01","Stadtmusik Uster","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",15000
+"2022-01-01","Vrein Openair fÃ¼r Uster (HU)","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",20000
+"2022-01-01","Verein Zeughausareal","Leistungskontrakt","Fachstelle Kultur","Leistungskontrakt",230000
+"2022-01-01","Top Klassik ZÃ¼rcher Oberland","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",20000
+"2022-01-01","KUfKI","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",16000
+"2022-01-01","Vereinbarung Ustertagskomitee","Leistungskontrakt","Fachstelle Kultur","Leistungskontrakt",30000
+"2022-01-01","Uster Agenda","Leistungskontrakt","Fachstelle Kultur","Leistungskontrakt",25000
+"2018-02-28","Kunstpreis","Kunstpreis an SÃ¤ngerin und Autorin Letizia Fiorenza","Kunstpreis","Kunstpreis",10000
+"2019-02-28","Kunstpreis","Kunstpreis an Verein Â«akku KÃ¼nstleratelierÂ»","Kunstpreis","Kunstpreis",10000
+"2022-09-05","Ensemble Fiorenza","Emozioni oder Geschwisterliebe, 09./11.3.23, Central Uster","Konzert & Theater","Projektbeitrag",25000
+"2022-09-05","Klassik im RÃ¼den","Klassik im Schloss, Saison 2023, Schloss Uster","Konzert & Theater","Projektbeitrag",2500
+"2022-09-05","Glauser Quintett","Â«Der Untergang des DelphinÂ», Premiere Feb 2023, anschliessende Schweizer Tournee","Konzert & Theater","Projektbeitrag",2000
+"2022-09-05","Freezy-Kleinert-Melvin","Freezy - Balkon fÃ¼r Zwei, Oktober 2022, Region Uster und ganze Schweiz","Konzert & Theater","Projektbeitrag",1500
+"2022-09-05","must","Gruselnacht fÃ¼r Erwachsene, 29.10.22, Stadtbibliothek Uster","Konzert & Theater","Projektbeitrag",800
+"2022-09-05","Big Band Uster","Amazing Grace â€“ Revisiting Aretha Franklin, 4.12.22, Musikcontainer Uster","Konzert & Theater","Projektbeitrag",1500
+"2022-09-05","Bechtler Stiftung","Double Positive. Sylvie Fleury, 8.10.22-19.3.23, Bechtler Stiftung Uster","Bildende Kunst","Projektbeitrag",8000
+"2022-09-05","CantapÃ¨","Acis und Galatea, 10./11.6.23, Kulturhaus Central Uster","Konzert & Theater","Projektbeitrag",2000
+"2022-09-05","Buchprojektgruppe ZÃ¼rcher Oberland","Vernissage Buchprojekt Â«Feld,Flarz,Fabrik - ZÃ¼rcher Oberland im WandelÂ», Oktober 22, Villa Grunholzer Uster","Konzert & Theater","Projektbeitrag",1500
+"2022-11-21","Jazzclub Uster","Jazzclub Uster, September 2022 - April 2023, Musikcontainer Uster","Konzert & Theater","Projektbeitrag",14000
+"2022-11-21","Kollektiv PrÃ¤sidentenbalkon","Planet Tabu (AT), 25.08.2023-03.09.2023, 01.06.2023-16.06.2023, 25.11.2023-03.12.2023, Zeughausareal Uster, Rote Fabrik ZÃ¼rich, Helsinkiklub ZÃ¼rich","Konzert & Theater","Projektbeitrag",20000
+"2022-11-21","Kompanie Bollwerk","SCHNAPPSCHUSS, 14.-21.9.23, Zeughausareal Uster","Konzert & Theater","Projektbeitrag",15000
+"2022-11-21","Kunstverein Uster","Ausstellung ARSENAL23, 22.6.-9.7.23, Zeughausareal Uster","Bildende Kunst","Projektbeitrag",8000
+"2022-11-21","Frank von NiederhÃ¤usern","Uster Talk, 16.3.23 & 11.5.23, Kulturhaus Central, etc.","Konzert & Theater","Projektbeitrag",1000
+"2022-11-21","Kunstverein Uster","Kunstverein Uster, Agenda 2023, Diverse","Bildende Kunst","Projektbeitrag",2000
+"2022-11-21","Hinterhalt Verein","Hinterhalt Festival 2023, 7./8./9. Juli 2023, Uster","Konzert & Theater","Projektbeitrag",35000
+"2023-01-01","Kulturverein zum Hut","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",9000
+"2023-01-01","Kulturgemeinschaft Uster KGU","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",110000
+"2023-01-01","Eisenbahn-Sammlung Uster","Leistungskontrakt","Bildende Kunst","Leistungskontrakt",4000
+"2023-01-01","akku KÃ¼nstleratelier","Leistungskontrakt","Bildende Kunst","Leistungskontrakt",15000
+"2023-01-01","Villa Grunholzer","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",15000
+"2023-01-01","SwissJazzOrama SJO","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",25000
+"2023-01-01","Stadtmusik Uster","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",15000
+"2023-01-01","Vrein Openair fÃ¼r Uster (HU)","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",17250
+"2023-01-01","Verein Zeughausareal","Leistungskontrakt","Fachstelle Kultur","Leistungskontrakt",230000
+"2023-01-01","Top Klassik ZÃ¼rcher Oberland","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",20000
+"2023-01-01","KUfKI","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",16000
+"2023-01-01","Vereinbarung Ustertagskomitee","Leistungskontrakt","Fachstelle Kultur","Leistungskontrakt",30000
+"2023-01-01","Uster Agenda","Leistungskontrakt","Fachstelle Kultur","Leistungskontrakt",25000
+"2023-02-27","KÃ¼nstlergruppe Uster","Ausstellung KÃ¼nstlergruppe Uster, 23.9. - 8.10.23, Zeughaus Uster K2","Bildende Kunst","Projektbeitrag",3000
+"2023-02-27","Qtopia und Internationale Kurzfilmtage Winterthur","Kurzfilmnacht Uster 2023, 22.4.23, Kino qtopia","Film & Kino","Projektbeitrag",2000
+"2023-02-27","Kunstfabrik Wetzikon","KUNST VOLLER TRAUM II, 1. - 4.6.2023, Zeughaus Uster","Bildende Kunst","Projektbeitrag",2500
+"2023-02-27","Thierry Perriard und Werner Casty","Ausstellung Â«UnzufÃ¤llige GemeinsamkeitenÂ», 1. bis 11.6.23, Zeughausareal Halle K2, Uster","Bildende Kunst","Projektbeitrag",2000
+"2023-02-27","Nachdenken Ã¼ber das koloniale Erbe","Nachdenken Ã¼ber das koloniale Erbe, 31.3.-27.4.23, Stadtpark Uster","Bildende Kunst","Projektbeitrag",2000
+"2023-02-27","Bechtler Stiftung","Ein ruheloses Universum. Peter Fischli, David Weiss, 15.4.-17.9.23, Bechtler Stiftung Uster","Bildende Kunst","Projektbeitrag",4000
+"2023-02-27","must","Konzerte fÃ¼r FrÃ¼haufstehende, 26. - 30.6.23, Stadtbibliothek Uster","Konzert & Theater","Projektbeitrag",4000
+"2023-02-27","Roger Girod","Gartenkultur-Performance, 3.6.23, Zellweger-Park Uster","Konzert & Theater","Projektbeitrag",2000
+"2023-02-27","Orgelfestival","Orgelfestival Uster, 24.8.23/27.8.23/3.9.23/10.9.23/17.9.23, Reformierte Kirche Uster","Konzert & Theater","Projektbeitrag",6000
+"2023-02-27","SÃ¤ngerbund Uster","Klassisches Konzert, 28.10.23 und 4.11.23, Wollerau/SZ und Uster","Konzert & Theater","Projektbeitrag",2000
+"2023-02-27","Gospel-Singers-Uster","Gospel-Chor mit Tanzperformance, 23.9.23, Musik Container Uster","Konzert & Theater","Projektbeitrag",1000
+"2023-02-27","Werkheim Uster","Stadtpark Sessions, 11.5./22.06./13.07./24.08./07.09.2023, Stadtpark Uster","Konzert & Theater","Projektbeitrag",3500
+"2023-02-27","Konkret","Konkret > Festival 23, 29.6. - 1.7.2023, Schwerzistrasse 60, 8606 NÃ¤nikon","Konzert & Theater","Projektbeitrag",3000
+"2023-02-27","Verein Zirkus Chnopf","Zirkus Chnopf, 30.8. - 3.9.23, Stadtpark Uster","Konzert & Theater","Projektbeitrag",3000
+"2023-02-27","Genossenschaft Klairs","Live im Klairs 2023, 26.3., 16.4., 18.6., 9.7., 10.9., 22.10., 19.11., Klairs, BÃ¼hlstrasse 16, 8606 NÃ¤nikon","Konzert & Theater","Projektbeitrag",1500
+"2023-06-05","landauf-bachab","GegenÃ¼ber Kunst im Dialog am Aabach, 25.8.23 (Vernissage), 10.9.23 (Finissage), Kunst entlang des Aabachs (TrÃ¼mplerareal bis Greifensee)","Bildende Kunst","Projektbeitrag",7000
+"2023-06-05","Stadt Jodler Uster","75 Jahr â€“ immer no FrÃ¶id am Jodle, 25.11.2023, Stadthofsaal Uster","Konzert & Theater","Projektbeitrag",500
+"2023-06-05","Verlag Scheidegger & Spiess","Kaspar Thalmann: Der Stern von Laufenburg, Herbst 2024, diverse","Konzert & Theater","Projektbeitrag",3000
+"2023-06-05","The Flying Circus","Freilicht Zirkus Spektakel Â«MarionettaÂ» der Kompanie Lucy & Lucky Loop, 2.7.23, Zeughausareal Uster","Konzert & Theater","Projektbeitrag",1200
+"2023-06-05","da bux Verlag","Buchprojekt Melanie Gerber, 14.9.2023 (VerÃ¶ffentlichung)/Herbst 23 Vernissage, Werdenberg, SG/Uster","Konzert & Theater","Projektbeitrag",1000
+"2023-06-05","Freie BÃ¼hne Uster","Theater Â«AlptraumvillaÂ», 19.10.2023 bis 04.11.2023, Kulturhaus Central Uster","Konzert & Theater","Projektbeitrag",6000
+"2023-06-05","Verein Kultur am Gleis","Kultur am Gleis 2023, ca. 35 KulturanlÃ¤sse wÃ¤hrend 2023, CafÃ© Gleis1, Bahnhof NÃ¤nikon-Greifensee","Konzert & Theater","Projektbeitrag",2500
+"2023-06-05","Jann FlÃ¼tsch","Klassik im Schloss, Saison 2024, 17.3., 7.4., 22.6., 14./28.9., 12.10.23, Schloss Uster","Konzert & Theater","Projektbeitrag",3000
+"2023-06-05","Corsin Gaudenz","Bad Actor, Dezember 2023 und MÃ¤rz 2024, Fabriktheater ZÃ¼rich, Central Uster, Schlachthaus Bern","Konzert & Theater","Projektbeitrag",8000
+"2023-06-05","Bechtler Stiftung","Ausstellung Bechtler Stiftung, 30.09.2023 - 01.04.2024, Bechtler Stiftung, Uster","Bildende Kunst","Projektbeitrag",5000
+"2023-06-05","Th. Gut Verlag","Buchprojekt Â«Greifensee-GeschichtenÂ», Erscheinung im Oktober 2023, anschliessend Lesungen rund um den Greifensee","Konzert & Theater","Projektbeitrag",1500
+"2023-06-05","Saray Furgler","Ablexu - WIN (Musik Video), Ausstrahlung: 25. August 2023","Film & Kino","Projektbeitrag",1000
+"2023-08-28","Duo Luschaina c/o Tobias Krebs","Audiovisuelle Aufnahme Duo Luschaina, 25.7.2023, Saal des ZKO-Haus ","Film & Kino","Projektbeitrag",1000
+"2023-08-28","DOXS Tanzkompanie","Couchkult - Inklusion in Altersheimen, ab 1.11.23, Altersheime in Uster und Umgebung","Konzert & Theater","Projektbeitrag",5000
+"2023-08-28","Jazzclub Uster","Jazzclub Uster, September 2023 - April 2024, Musikcontainer Uster & Central","Konzert & Theater","Projektbeitrag",14000
+"2023-08-28","must","Konzertwoche im Advent, 4. - 8.12.2023, Foyer des Stadthauses Uster","Konzert & Theater","Projektbeitrag",4000
+"2023-08-28","Theater im Wohnzimmer (Ingo Ospelt und Eveline Ratering)","S ist als ob Engelein singen, 12.11./19.11./3.12./9.12.23, Theater im Wohnzimmer, Brandstrasse 4, Uster","Konzert & Theater","Projektbeitrag",2500
+"2023-11-20","Miam","miam-konzerte, 14.01.,09.03.,16.06.,12.10.2024, Uster","Konzert & Theater","Projektbeitrag",1000
+"2023-11-20","Das TRIO - Paolo D'Angelo, Martina Oertli","Â«Meine Liebe, Deine LiebeÂ» Konzert, 17.02.2024, MusikContainer Uster","Konzert & Theater","Projektbeitrag",1000
+"2023-11-20","SDJ, Suisse Diagonales Jazz","Suisse Diagonales Jazz 2024, 19.01.2024, Jazzclub Uster","Konzert & Theater","Projektbeitrag",1000
+"2023-11-20","TONundTON","AQUA Installation von TONundTON, 1. - 16.6.2024, Waschhaus der Villa Grunholzer Uster","Bildende Kunst","Projektbeitrag",1000
+"2023-11-20","Balzer Event GmbH","Kindermusical Â«PumucklÂ», 10.02.24, Stadthofsaal Uster","Konzert & Theater","Projektbeitrag",1000
+"2023-11-20","Internationales Theater Synthese","Den Drachen lieb...tÃ¶ten!, 23.,24.,25.5.,1.,12.,19.,20.6., Central Uster, GenÃ¨ve, ZÃ¼rich","Konzert & Theater","Projektbeitrag",8000
+"2023-11-20","Kantonsschule Uster und Verein Â«Jugend beflÃ¼geltÂ»","Kharkiv meets Zurich, 5.2.-10.2.2024, Kantonsschule Uster","Konzert & Theater","Projektbeitrag",5000
+"2023-11-20","Alfred Zimmerlin","Studioaufnahme und Albumproduktion, 1.12.2023 - Herbst 2024, Studio: Villingen DE, Vertieb und Release-Tour: Schweiz","Konzert & Theater","Projektbeitrag",1500
+"2023-11-20","ensemble fiorenza","Was Sie schon immer Ã¼ber Scham wissen wollten (aber bisher noch nicht erfahren haben), 15.,16. November, 24.,25. November 2024, Central Uster, ThiK Baden","Konzert & Theater","Projektbeitrag",20000
+"2023-11-20","Bechtler Stiftung","Ausstellung Bechtler Stiftung, 19.04. -6.10.2024, Museum Bechtler Stiftung, Uster","Bildende Kunst","Projektbeitrag",7000
+"2023-11-20","AS Verlag","Buchprojekt Â«Eiskalt schwimmenÂ» von Jeannette Stangier-Bors, Publikation im Juni 2024, Vernissage im Juni 2024 in Uster","Konzert & Theater","Projektbeitrag",1500
+"2023-11-20","Karen Geyer, KÃ¼nstlerin und Kunstvermittlerin","FÃ¼hrungen Â«Kunst im Ã¶ffentlichen RaumÂ», Jeder letzte Donnerstag im Monat von MÃ¤rz bis September, Stadt Uster Ã¶ffentlicher Raum","Bildende Kunst","Projektbeitrag",5500
+"2023-11-20","Lukas Roth - kooprteatr","An Essay About Nothing (Produktion), Mai,Juni 2024 (2 Vorstellungen), Kulturhaus Central","Konzert & Theater","Projektbeitrag",5000
+"2024-02-26","Qtopia und Internationale Kurzfilmtage Winterthur","Internationale Kurzfilmtage Winterthur, 13.4.24, qtopia kino+bar","Film & Kino","Projektbeitrag",2500
+"2024-02-26","Genossenschaft Klairs NÃ¤nikon","Live im Klairs 2024, 24.3., 21.4., 26.5. 23.6., 22.9., 20.10., 24.11., 8. oder 15.12., Klairs NÃ¤nikon","Konzert & Theater","Projektbeitrag",2000
+"2024-02-26","AG Kultur im gRaum","Melinda Stocker & Benjamin Scheck, 22.3.2024, gRaum, Florastrasse 49, 8610 Uster","Konzert & Theater","Projektbeitrag",500
+"2024-02-26","Edition KÃ¶nigstuhl Dr. Manfred Hiefner","Buchprojekt Â«VerÃ¤nderlich oder des Lebens lauter FrÃ¼hlingÂ», 07.2023 - 05.2024, Uster/St. Gallenkappel","Konzert & Theater","Projektbeitrag",1500
+"2024-02-26","Climanosco, Bettina Rohr","Ausstellung Dear2050: Entangled Forests, 30.3. - 19.4.24, Zeughausareal Uster","Bildende Kunst","Projektbeitrag",3000
+"2024-02-26","Orgelfestival","34. Orgelfestival 2024, 25.8./1.9./4.9./8.9./15.9.2024, Ref. Kirche Uster","Konzert & Theater","Projektbeitrag",8000
+"2024-02-26","Kunstverein Uster","Kunstverein Uster, Agenda 2024, Januar bis Dezember 2024, ZÃ¼rich, Uster, Wetzikon","Bildende Kunst","Projektbeitrag",4000
+"2024-02-26","Zirkus Chnopf","Zirkus Chnopf, 14. - 18.08.2024, Stadtpark Uster","Konzert & Theater","Projektbeitrag",3000
+"2024-02-26","Dario Marti","Bachelor Animation Abschlussfilm, 20.02. - 25.06.2024, Filmfestivals, Internet, Installationen, TV","Film & Kino","Projektbeitrag",500
+"2024-02-26","must","Konzerte fÃ¼r FrÃ¼haufstehende, 24. - 28.7.24, Stadtbibliothek Uster","Konzert & Theater","Projektbeitrag",4000
+"2024-02-26","SÃ¤ngerbund","Klassisches Konzert, 16.11.24, Ref. Kirche Uster","Konzert & Theater","Projektbeitrag",3000
+"2024-02-26","Verein Konkret","Konkret Festival 24, 27.6.-29.6.24, Schwerzistrasse 60, 8606 NÃ¤nikon","Konzert & Theater","Projektbeitrag",5000
+"2024-02-26","Paula Duttweiler","Lesung mit Studierenden des Schweizer Literaturinstitut, 9.4.24, Buchhandlung Doppelpunkt","Konzert & Theater","Projektbeitrag",1000
+"2024-02-26","Bertilla Spinas","Fegefeuer, 17.-30.6.24, ehemaliges Figurentheater Luzern/Kino Qtopia Uster","Konzert & Theater","Projektbeitrag",3000
+"2024-01-01","Kulturverein zum Hut","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",9000
+"2024-01-01","Kulturgemeinschaft Uster KGU","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",110000
+"2024-01-01","Eisenbahn-Sammlung Uster","Leistungskontrakt","Bildende Kunst","Leistungskontrakt",4000
+"2024-01-01","akku KÃ¼nstleratelier","Leistungskontrakt","Bildende Kunst","Leistungskontrakt",15000
+"2024-01-01","Villa Grunholzer","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",15000
+"2024-01-01","SwissJazzOrama SJO","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",25000
+"2024-01-01","Stadtmusik Uster","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",15000
+"2024-01-01","Verein Openair fÃ¼r Uster (HU)","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",15000
+"2024-01-01","Verein Zeughausareal","Leistungskontrakt","Fachstelle Kultur","Leistungskontrakt",230000
+"2024-01-01","Top Klassik ZÃ¼rcher Oberland","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",20000
+"2024-01-01","KUfKI","Leistungskontrakt","Konzert & Theater","Leistungskontrakt",16000
+"2024-01-01","Ustertagskomitee","Leistungskontrakt","Fachstelle Kultur","Leistungskontrakt",30000
+"2024-01-01","Uster Agenda","Leistungskontrakt","Fachstelle Kultur","Leistungskontrakt",25000
+"2024-06-03","The Flying Circus","Zirkus Gastspiel Â«CatastrofoniaÂ», 15.09.2024, Stadtpark, Uster","Konzert & Theater","Projektbeitrag",1500
+"2024-06-03","Verein Openair fÃ¼r Uster, H2U","Zeughausfest, 25.5.2024. Zeughaus K1: A6 (zukÃ¼nftige U-Boot Live Musik Bar)","Konzert & Theater","Projektbeitrag",1000
+"2024-06-03","anda Verlag GmbH/anda Events","Felltuschgnusch â€“ das pelzige Musiktheater vonÂ  Marius & die Jagdkapelle ab November auf den TheaterbÃ¼hnen, 28. Dezember 2024, Stadthofsaal Uster","Konzert & Theater","Projektbeitrag",2000
+"2024-06-03","JazzVoices ZÃ¼rich","Groovin' Hard - JazzVoices ZÃ¼rich & Trio, 16./17./30.11.2024, ZÃ¼rich Hottingen und Musikcontainer Uster","Konzert & Theater","Projektbeitrag",2000
+"2024-06-03","Freie BÃ¼hne Uster","TheaterauffÃ¼hrungen Â«Mord im OrientexpressÂ», 26.09.2024 - 19.10.2024 (15 Vorstellungen), Kulturhaus Central, Uster","Konzert & Theater","Projektbeitrag",6000
+"2024-06-03","Verein Klassik im Schloss/RÃ¼den","Klassik im Schloss, Saison 2025, 16.&30.3., 13.4., 13.9., 4.&25.10.25, Schloss Uster","Konzert & Theater","Projektbeitrag",3000
+"2024-06-03","Thomas LÃ¼thi","Album-Produktion, 12./13. Juli 2024, Pas dâ€™oreilles Studio ZÃ¼rich","Konzert & Theater","Projektbeitrag",1500
+"2024-06-03","Konzeptbox","12-1/2 Ustergeschichten (Vorprojekt), 2025 JubilÃ¤umsjahr 1250 Jahre Uster, qtopia und online - Projektionen ad hoc","Film & Kino","Projektbeitrag",8000
+"2024-06-03","Beyond Silence Concerts","Neues Orchester Uster: 1. Konzert, 1. November 2024, Stadthofsaal Uster","Konzert & Theater","Projektbeitrag",7000
+"2024-08-26","Jazzclub Uster","Jazzclub Uster, September 2024 - April 2025, Musikcontainer Uster","Konzert & Theater","Projektbeitrag",14000
+"2024-08-26","Dakar-Produktion - Theater mit Puppen und Menschen","Auf BÃ¤ume klettern, 5./6./7./8.12.24, 10./11.1.25, Mai 2025, Theater Stadelhofen/ThiK Baden/Central Uster","Konzert & Theater","Projektbeitrag",5000
+"2024-08-26","Musiker-EnsembleÂ  Lalli / D'Angelo / VeritÃ  ","Klangzauber der Belle Ã‰poque, 26.1.25, MusikContainer Uster","Konzert & Theater","Projektbeitrag",1800
+"2024-08-26","Japanischer Frauenchor ZÃ¼rich - Naomi Bozzini","8. Japanisches Chorfest, 14.6.225, Reformierte Kirche Uster","Konzert & Theater","Projektbeitrag",2500
+"2024-08-26","Marion Bigger Buchli, Ludit GmbH","Usterspiel, Verkauf/Abgabe ab 5.9.25, Bei Familien, in Spielkreisen, bei Kulturinteressierten","Bildende Kunst","Projektbeitrag",1500
+"2024-08-26","Dominic Kramer","Fassadenkunst im Zeughausareal, Sa,14.9 / Mi,18. & 25.9.24 / + 5 Tage in Herbstferien 24, Zeughausareal Uster","Bildende Kunst","Projektbeitrag",8150
+"2024-08-26","must","Konzertwoche im Advent, 2. bis 6.12.24, Stadthausfoyer","Konzert & Theater","Projektbeitrag",4000
+"2024-08-26","Bechtler Stiftung","Walter de Mariaâ€™s Â«Ocean MusicÂ» und Â«Cricket MusicÂ», live gespielt von Lucas Niggli, 29.9.24, Bechtler Stiftung","Konzert & Theater","Projektbeitrag",3000
+"2024-08-26","Compagnia Za-ZÃ ","Freilicht Theater: MoliÃ¨re Cie Za-ZÃ , Anfang August 2025, Stadtpark Uster","Konzert & Theater","Projektbeitrag",2000
+"2024-08-26","Filacro","Circo Fantazztico, 8./9.9.24, filacro Circus-Schule","Konzert & Theater","Projektbeitrag",1200
+"2024-08-26","Trigger Concert Big Band","De BogotÃ¡ a Nueva York, 22./23./24.11.24, Zug (HÃ¼nenberg), Uster, Rapperswil-Jona","Konzert & Theater","Projektbeitrag",1500
+"2024-08-26","Vadane","Vadane: Album und Tour Â«Le beau mondeÂ», 2.11.24 - 21.3.25, diverse","Konzert & Theater","Projektbeitrag",2000
+"2024-11-25","Avital Cohen & Company","AIR POÃ‰TIQUE 5785 / TALES OF AIR & EARTH, 24./25.10.2025, Central Uster plus diverse andere Daten und Orte","Konzert & Theater","Projektbeitrag",18000
+"2024-11-25","PIALETO","Leuchtfigur fÃ¼r das Stadtfest Uster, Bau: In der Woche 34 und 36, Im Park der Villa am Aabach","Bildende Kunst","Projektbeitrag",15000
+"2024-11-25","Ingo Ospelt","Drehbuch Entwicklung, 1.12.2025 - 31.1.2026, Arbeitsort Uster","Film & Kino","Projektbeitrag",8000
+"2024-11-25","Verein Openair fÃ¼r Uster, H2U","Kultur im U-Boot, 2024: 8.11., 22.11., 6.12., 2025: 10.1., 16.1, 24.1., 7.2, U-Boot Bar, Zeughaus, Uster","Konzert & Theater","Projektbeitrag",4000
+"2024-11-25","Konzeptbox","12-1/2 Ustergeschichten (Hauptprojekt), 2025 JubilÃ¤umsjahr 1250 Jahre Uster, Kino qtopia und online - Projektionen ad hoc - Schulen","Film & Kino","Projektbeitrag",40000
+"2024-11-25","DorothÃ©e DÃ¤ster","Il peso dell'aria, 6.9.25, Stadtpark","Konzert & Theater","Projektbeitrag",3500
+"2024-11-25","Central Uster","Duster in Uster, 5./6./7. September 2025, Schloss Uster/Reformierte Kirche/Wald/Brauerei/Aabach","Konzert & Theater","Projektbeitrag",30000
+"2024-11-25","Hinterhalt Verein","Hinterhalt Festival 2025, 27./ 28./ 29. Juli 2025, Seestrasse 64 / Lenzlinger-Areal","Konzert & Theater","Projektbeitrag",45000
+"2024-11-25","Karen Geyer","Jahresprogramm FÃ¼hrungen i Ã¶ Raum, 06.03.,03.04.,01.05.,05.06.,03.07.,07.08.,04.09.,02.10.25, gesamte Stadt Uster, Kunstwerke im Ã¶ffentlichen Raum","Bildende Kunst","Projektbeitrag",8000
+"2025-03-03","Kunstverein Uster","Kunst+ (Total ca 19 Veranstaltungen), Januar bis Dezember 2025, Uster","Bildende Kunst","Projektbeitrag",5000
+"2025-03-03","Genossenschaft Klairs NÃ¤nikon","Live im Klairs 2025, 9.3.25,27.4.25,18.5.25, 15.6.25,31.6.25,28.9.25,26.10.25,14.12.25, Klairs, BÃ¼hlstrasse 16, 8606 NÃ¤nikon","Konzert & Theater","Projektbeitrag",2000
+"2025-03-03","Qtopia und Internationale Kurzfilmtage Winterthur","Kurzfilmnacht Uster 2025, Samstag, 12. April 2025, Schweiz, Stadt Uster, qtopia Kino+Bar","Film und Kino","Projektbeitrag",2500
+"2025-03-03","Orgelfestival","Orgelfestival 2025, 17.8. - 21.9.25, Reformierte Kirche Uster","Konzert & Theater","Projektbeitrag",8000
+"2025-03-03","KÃ¼nstlergruppe Uster","Ausstellung KÃ¼nstlergruppe Uster, 27. Sept.â€“ 12. Oktober 25, Zeughaus K2","Bildende Kunst","Projektbeitrag",3000
+"2025-03-03","Nina Widmer, Dina Sommerhalder, Anja RÃ¼ttimann, Yamina Wehrli","Erstes Komponistinnen-Festival Uster, 13. und 15. Juni 2025, U-Boot-Bar, Katholische Kirche Uster","Konzert & Theater","Projektbeitrag",8000
+"2025-03-03","SÃ¤ngerbund Uster","Musiktheater Simeliberg, 27./28. September 2025, Festsaal Wagerenhof, Asylstrasse, Uster","Konzert & Theater","Projektbeitrag",5000
+"2025-03-03","must","Konzerte fÃ¼r FrÃ¼haufstehende, Montag 23. Juni bis Freitag 27. Juni 2025, Stadtbibliothek","Konzert & Theater","Projektbeitrag",4000
+"2025-03-03","Glauser Quintett","Glauser Quintett: â€žIch komme mitâ€œ, Proben ab Sommer 2025, Premiere im Januar 2026, Uster, ZÃ¼rich, Weinfelden, Baden etc.","Konzert & Theater","Projektbeitrag",4000
+"2025-03-03","CantapÃ¨","Requiem Giuseppe Verdi, 13. September 2025, reformierte Kirche Uster","Konzert & Theater","Projektbeitrag",4500
+"2025-03-03","must","must-Festival am Stadtfest 2025, Sonntag 7.9.2025, 12-18h, Kleine BÃ¼hne bei der Brauerei","Konzert & Theater","Projektbeitrag",12000
+"2025-03-03","Luca Filisetti & Maurus Feyen von Klangsthase","Jam dich nicht!, jeweils am letzten Mittwoch des Monats (Start am 26.03.2025), Central Uster","Konzert & Theater","Projektbeitrag",6000
+"2025-03-03","Verein Open Air fÃ¼r Uster","Kultur im U-Boot (H2U-BÃ¼hne), diverse Daten im 2025 (s. Projektbeschreibung), U-Boot Bar, Zeughausareal, Uster","Konzert & Theater","Projektbeitrag",13600
+"2025-03-03","der grosse tyrann","WANDATHEATER, 13. September 2025, Zeughausareal Uster","Konzert & Theater","Projektbeitrag",1500
+"2025-03-03","Dimitrina Sevova (Corner College)","Gruppenausstellung Earthly Things â€“ Ghostly Matters, 13.-21. September 2025, Raum 2, Zeughausareal Uster, K2","Bildende Kunst","Projektbeitrag",10000
